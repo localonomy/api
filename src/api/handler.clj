@@ -16,6 +16,7 @@
 
 (defroutes app-routes
   (GET "/" [] (get-hello))
+  (route/resources "/")
   (route/not-found "Not Found"))
 
 (def app
