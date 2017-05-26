@@ -11,7 +11,7 @@
   (GET "/" [] 
     (response/response
       (json/decode-stream
-        (io/reader "data/hello.json") true)))
+        (io/reader "resources/data/hello.json") true)))
   (route/not-found "Not Found"))
 
 (def app
