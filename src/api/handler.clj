@@ -7,11 +7,15 @@
             [ring.middleware.json :as middleware.json]
             [ring.util.response :as response]))
 
+(def hello 
+  (json/decode-stream
+    (io/reader "resources/data/hello.json") true))
+
+(defn get-hello []
+  (response/response hello))
+
 (defroutes app-routes
-  (GET "/" [] 
-    (response/response
-      (json/decode-stream
-        (io/reader "resources/data/hello.json") true)))
+  (GET "/" [] (get-hello))
   (route/not-found "Not Found"))
 
 (def app
