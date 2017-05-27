@@ -1,21 +1,14 @@
 (ns api.handler
-  (:require [compojure.core :refer :all]
+  (:require [api.response :refer :all]
+            [compojure.core :refer :all]
             [compojure.route :as route]
-            [clojure.java.io :as io]
-            [cheshire.core :as json]
             [ring.middleware.defaults :as middleware]
-            [ring.middleware.json :as middleware.json]
-            [ring.util.response :as response]))
-
-(def hello 
-  (json/decode-stream
-    (io/reader "resources/data/hello.json") true))
-
-(defn get-hello []
-  (response/response hello))
+            [ring.middleware.json :as middleware.json]))
 
 (defroutes app-routes
-  (GET "/" [] (get-hello))
+  (context "/api" [] (defroutes api-routes
+    (context "/hello" [] (defroutes hello-routes
+      (GET "/" [] (get-hello))))))
   (route/resources "/")
   (route/not-found "Not Found"))
 
