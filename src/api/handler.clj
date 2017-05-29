@@ -7,9 +7,16 @@
 
 (defroutes app-routes
   (context "/api" [] (defroutes api-routes
-    (context "/hello" [] (defroutes hello-routes
-      (GET "/" [] (get-hello))))))
+    (context "/countries" [] (defroutes countries-routes
+      (GET "/" [] (get-countries)))))
+    (context "/dishes" [] (defroutes dishes-routes
+      (GET "/" [] (get-dishes-names))
+      (GET "/:country" [country] (get-dishes country))))
+    (context "/dish" [] (defroutes dish-routes
+      (GET "/:id" [id] (get-dish id)))))
+
   (route/resources "/")
+
   (route/not-found "Not Found"))
 
 (def app

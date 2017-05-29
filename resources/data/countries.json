@@ -1,0 +1,13 @@
+[
+  {
+    "id": "be",
+    "code": "be",
+    "name": "Belgium",
+    "flag": "be.svg"
+  },{
+    "id": "cl",
+    "code": "cl",
+    "name": "Chile",
+    "flag": "cl.svg"
+  }
+]

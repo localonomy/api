@@ -2,11 +2,13 @@
   (:require [clojure.java.io :as io]
             [cheshire.core :as json]))
 
-(def hello 
+(def dishes
   (merge
     (json/decode-stream
-      (io/reader "resources/data/hello.json") true)
+      (io/reader "resources/data/dishes/be.json") true)
     (json/decode-stream
-      (io/reader "resources/data/bye.json") true)
-    (json/decode-stream
-      (io/reader "resources/data/world.json") true)))
+      (io/reader "resources/data/dishes/cl.json") true)))
+
+(def countries
+  (json/decode-stream
+    (io/reader "resources/data/countries.json") true))
