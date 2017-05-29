@@ -1,0 +1,294 @@
+{
+  "es": [
+    {
+      "id": "es01",
+      "name": "Arroz a la cubana",
+      "picture": "arroz-cubana.jpg",
+      "description": "A dish eaten in many Spanish-speaking countries. Its defining ingredients are rice and a fried egg. A plantain or banana, and tomato sauce, are so frequently used as often to be considered defining ingredients.",
+      "ingredients":[
+        "rice",
+        "egg",
+        "tomato",
+        "banana"
+      ],
+      "contains":[
+        "egg"
+      ]
+    },{
+      "id": "es04",
+      "name": "Chorizo",
+      "picture": "chorizo.jpg",
+      "description": "A term originating in the Iberian Peninsula encompassing several types of pork sausages. Traditionally, chorizo is encased in natural casings made from intestines, a method used since Roman times.",
+      "ingredients":[
+        "pork",
+        "pepper"
+      ],
+      "contains":[
+        "pork",
+        "meat",
+        "spicy"
+      ]
+    },{
+      "id": "es05",
+      "name": "Churro",
+      "picture": "churro.jpg",
+      "description": "Sometimes referred to as a Spanish doughnut, is a fried-dough pastry—predominantly choux—based snack.",
+      "ingredients":[
+        "flour",
+        "sugar"
+      ],
+      "contains":[
+        "gluten"
+      ]
+    },{
+      "id": "es06",
+      "name": "Cocido Montañés",
+      "picture": "cocido-montanes.jpg",
+      "description": "A rich hearty bean stew, originally from and most commonly found in the autonomous community of Cantabria in northern Spain.",
+      "ingredients":[
+        "white-bean",
+        "pork",
+        "cabbage"
+      ],
+      "contains":[
+        "pork",
+        "meat",
+        "gluten"
+      ]
+    },{
+      "id": "es08",
+      "name": "Escalivada",
+      "picture": "escalivada.jpg",
+      "description": "A traditional Catalan dish of smoky grilled vegetables. It typically consists of roasted eggplant and bell peppers with olive oil, and sometimes onion, tomato, minced garlic, and salt.",
+      "ingredients":[
+        "eggplant",
+        "pepper",
+        "onion",
+        "tomato",
+        "garlic"
+      ],
+      "contains":[
+        ""
+      ]
+    },{
+      "id": "es09",
+      "name": "Escudella",
+      "picture": "escudella.jpg",
+      "description": "A traditional Catalan soup and stew. It is as well the first referenced soup in Europe; Francesc Eiximenis wrote in the 14th century that it was eaten every day by Catalan people.",
+      "ingredients":[
+        "meat",
+        "vegetables"
+      ],
+      "contains":[
+        "meat"
+      ]
+    },{
+      "id": "es10",
+      "name": "Fabada",
+      "picture": "fabada.jpg",
+      "description": "A rich Spanish bean stew, originally from and most commonly found in Asturias, but widely available throughout the whole of Spain.",
+      "ingredients":[
+        "white-bean",
+        "pork",
+        "herbs"
+      ],
+      "contains":[
+        "pork",
+        "meat",
+        "gluten"
+      ]
+    },{
+      "id": "es11",
+      "name": "Gazpacho",
+      "picture": "gazpacho.jpg",
+      "description": "A soup made of raw vegetables and served cold, usually with a tomato base, originating in the southern Spanish region of Andalusia.",
+      "ingredients":[
+        "tomato",
+        "garlic"
+      ],
+      "contains":[
+        ""
+      ]
+    },{
+      "id": "es12",
+      "name": "Hornazo",
+      "picture": "hornazo.jpg",
+      "description": "A Spanish meat pie eaten in the provinces of Salamanca and Ávila. It is made with flour and yeast and stuffed with pork loin, spicy chorizo sausage and hard-boiled eggs.",
+      "ingredients":[
+        "bread",
+        "pork",
+        "egg"
+      ],
+      "contains":[
+        "gluten",
+        "pork",
+        "meat",
+        "egg"
+      ]
+    },{
+      "id": "es13",
+      "name": "Jamón",
+      "picture": "jamon.jpg",
+      "description": "Dry-cured ham from Spain. There are two primary types of jamón: jamón serrano (meaning ham from the sierra or mountains) and jamón ibérico (ham from the Black Iberian pig).",
+      "ingredients":[
+        "ham"
+      ],
+      "contains":[
+        "pork",
+        "meat"
+      ]
+    },{
+      "id": "es14",
+      "name": "Lechazo",
+      "picture": "lechazo.jpg",
+      "description": "A Spanish dish made from 'cordero lechal'. The meat used is from unweaned lambs, and is similar to veal, or the meat of 'cochinillo', Spanish suckling pigs.",
+      "ingredients":[
+        "lamb"
+      ],
+      "contains":[
+        "meat"
+      ]
+    },{
+      "id": "es15",
+      "name": "Leche frita",
+      "picture": "leche-frita.jpg",
+      "description": "A Spanish sweet typical of the north of Spain. It is made by cooking flour with milk and sugar until it thickens to a firm dough which is then portioned, fried and served with a sugar glaze and cinnamon powder.",
+      "ingredients":[
+        "milk",
+        "flour",
+        "sugar",
+        "cinnamon"
+      ],
+      "contains":[
+        "gluten",
+        "dairy"
+      ]
+    },{
+      "id": "es18",
+      "name": "Morcilla",
+      "picture": "morcilla.jpg",
+      "description": "Spanish morcilla has many variants. The most well-known and widespread is morcilla de Burgos which contains mainly pork blood and fat, rice, onions, and salt.",
+      "ingredients":[
+        "pork",
+        "rice",
+        "onion"
+      ],
+      "contains":[
+        "pork",
+        "meat"
+      ]
+    },{
+      "id": "es19",
+      "name": "Paella",
+      "picture": "paella.jpg",
+      "description": "A Valencian rice dish that originated in its modern form in the mid-nineteenth century near Albufera lagoon. Many non-Spaniards view paella as Spain's national dish, but most Spaniards consider it to be a regional Valencian dish.",
+      "ingredients":[
+        "rice",
+        "chicken",
+        "rabbit",
+        "vegetables",
+        "shrimp",
+        "mussel"
+      ],
+      "contains":[
+        "meat",
+        "seafood"
+      ]
+    },{
+      "id": "es20",
+      "name": "Patatas bravas",
+      "picture": "patatas-bravas.jpg",
+      "description": "A dish native to Spain, often served as a tapa in bars. It typically consists of white potatoes that have been cut into irregular shapes of about 2 centimeters, then fried in oil and served warm with a sauce such as a spicy tomato sauce or an aioli.",
+      "ingredients":[
+        "potato",
+        "tomato",
+        "garlic",
+        "spicy"
+      ],
+      "contains":[
+        "spicy"
+      ]
+    },{
+      "id": "es22",
+      "name": "Polbo á feira",
+      "picture": "polbo.jpg",
+      "description": "A traditional Spanish Galician dish consisting of octopus.",
+      "ingredients":[
+        "octopus",
+        "pepper"
+      ],
+      "contains":[
+        "seafood",
+        "spicy"
+      ]
+    },{
+      "id": "es23",
+      "name": "Sopa de ajo",
+      "picture": "sopa-ajo.jpg",
+      "description": "A traditional garlic soup made with egg poached in chicken broth and laced with sherry and garlic.",
+      "ingredients":[
+        "egg",
+        "garlic"
+      ],
+      "contains":[
+        "egg"
+      ]
+    },{
+      "id": "es24",
+      "name": "Tapas",
+      "picture": "tapas.jpg",
+      "description": "A wide variety of appetizers, or snacks, in Spanish cuisine. They may be cold (such as mixed olives and cheese) or hot (such as chopitos, which are battered, fried baby squids). In select bars in Spain, tapas have evolved into an entire, and sometimes sophisticated, cuisine.",
+      "ingredients":[
+        "bread",
+        "meat",
+        "cheese",
+        "vegetables",
+        "octopus"
+      ],
+      "contains":[
+        "gluten"
+      ]
+    },{
+      "id": "es25",
+      "name": "Tombet",
+      "picture": "tombet.jpg",
+      "description": "A traditional vegetable dish from Majorca. It is available at almost every local restaurant on the island.",
+      "ingredients":[
+        "potato",
+        "eggplant",
+        "pepper"
+      ],
+      "contains":[
+        ""
+      ]
+    },{
+      "id": "es26",
+      "name": "Tortilla",
+      "picture": "tortilla.jpg",
+      "description": "A typical Spanish dish consisting of an egg omelette made with added potatoes and fried in vegetable oil.",
+      "ingredients":[
+        "egg",
+        "potato",
+        "onion"
+      ],
+      "contains":[
+        "egg"
+      ]
+    },{
+      "id": "es27",
+      "name": "Turrón",
+      "picture": "turron.jpg",
+      "description": "A confection, typically made of honey, sugar, and egg white, with toasted almonds or other nuts, and usually shaped into either a rectangular tablet or a round cake.",
+      "ingredients":[
+        "egg",
+        "honey",
+        "sugar",
+        "almond"
+      ],
+      "contains":[
+        "egg",
+        "nuts"
+      ]
+    }
+  ]
+}

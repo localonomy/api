@@ -1,0 +1,312 @@
+{
+  "th": [
+    {
+      "id": "th01",
+      "name": "Cha yen",
+      "picture": "cha-yen.jpg",
+      "description": "ชาเย็น. A drink made from strongly brewed black tea. This tea is sweetened with sugar and condensed milk and served chilled. Evaporated milk, coconut milk or whole milk is generally poured over the tea and ice before serving to add taste and creamy appearance.",
+      "ingredients":[
+        "tea",
+        "milk",
+        "sugar"
+      ],
+      "contains":[
+        "dairy"
+      ]
+    },{
+      "id": "th02",
+      "name": "Khao phat",
+      "picture": "khao-phat.jpg",
+      "description": "ข้าวผัด. A variety of fried rice typical of central Thai cuisine. In Thai, khao means 'rice' and phat means 'of or relating to being stir-fried'. This dish differs from Chinese fried rice is that it is prepared with Thai Jasmine rice instead of regular long-grain rice. It normally contains meat (chicken, shrimp, and crab are all common), egg, onions, garlic and sometimes tomatoes.",
+      "ingredients":[
+        "chicken",
+        "shrimp",
+        "crab",
+        "egg",
+        "onion",
+        "garlic",
+        "tomato"
+      ],
+      "contains":[
+        "meat",
+        "seafood"
+      ]
+    },{
+      "id": "th03",
+      "name": "Kaeng kari",
+      "picture": "kaeng-kari.jpg",
+      "description": "แกงกะหรี่. One of three major kinds of Thai curry that are commonly found in Thai restaurants in the West. There are other curry types in Thai cuisine, several of which are yellow. Thai Yellow curry, outside Thailand, usually refers to the Thai-Muslim dish kaeng kari. This curry is richer and creamier than other Thai curries, since coconut cream is used in addition to coconut milk.",
+      "ingredients":[
+        "rice",
+        "chicken",
+        "fish",
+        "vegetables",
+        "coconut",
+        "herbs"
+      ],
+      "contains":[
+        "meat",
+        "seafood"
+      ]
+    },{
+      "id": "th04",
+      "name": "Kaeng khiao wan",
+      "picture": "kaeng-khiao-wan.jpg",
+      "description": "แกงเขียวหวาน. A Central Thai variety of curry. The name 'green' curry derives from the color of the dish, which comes from green chillies. Apart from a main protein, traditionally fish, meat, or fish balls, the other ingredients for the dish consist of coconut milk, green curry paste, palm sugar, fish sauce. Thai eggplant (aubergine), pea aubergine, or other vegetables and even fruit are often included.",
+      "ingredients":[
+        "meat",
+        "fish",
+        "coconut",
+        "eggplant",
+        "vegetables",
+        "herbs"
+      ],
+      "contains":[
+        "meat",
+        "seafood"
+      ]
+    },{
+      "id": "th05",
+      "name": "Kaeng phet",
+      "picture": "kaeng-phet.jpg",
+      "description": "แกงเผ็ด. A popular Thai dish consisting of curry paste to which coconut milk is added. The base is properly made with a mortar and pestle, and remains moist throughout the preparation process. The main ingredients are garlic, shallots, (dried) red chili peppers, galangal, shrimp paste, salt, kaffir lime peel, coriander root, coriander seeds, cumin seeds, peppercorns and lemongrass. Common additives are fish sauce, sugar, Thai eggplant, bamboo shoots, thai basil (bai horapha), and meat such as chicken, beef, pork, shrimp, frog, snake or duck.",
+      "ingredients":[
+        "meat",
+        "shrimp",
+        "coconut",
+        "garlic",
+        "herbs",
+        "eggplant",
+        "spicy"
+      ],
+      "contains":[
+        "meat",
+        "seafood",
+        "spicy"
+      ]
+    },{
+      "id": "th06",
+      "name": "Kai yang",
+      "picture": "kai-yang.jpg",
+      "description": "ไก่ย่าง. A dish originating from the Lao people of Laos and Isan (Northeastern Thailand), but it is now commonly eaten throughout the whole of Thailand. The dish is a standard staple of street markets and readily available at all times.",
+      "ingredients":[
+        "chicken"
+      ],
+      "contains":[
+        "meat"
+      ]
+    },{
+      "id": "th07",
+      "name": "Khanom chan",
+      "picture": "khanom-chan.jpg",
+      "description": "ขนมชั้น. One of the ancient Thai desserts, which Thai ancestors usually made for auspicious ceremonies. In Thai, the word 'Khanom' (ขนม) means dessert, 'Chan' (ชั้น) means layer. It is usually baked in the complete 9 layer form. The number nine itself has connotations of prosperity in Thai culture (in Thai, 'nine' also sounds like ‘progress’).",
+      "ingredients":[
+        "rice",
+        "cassava",
+        "flour",
+        "sugar",
+        "coconut"
+      ],
+      "contains":[
+        ""
+      ]
+    },{
+      "id": "th08",
+      "name": "Khao soi",
+      "picture": "khao-soi.jpg",
+      "description": "ข้าวซอย. A Burmese-influenced dish served widely in northern Laos and northern Thailand. The name means 'cut rice' in Thai, although it is possible that it is simply a corruption of the Burmese word for noodles which is just 'khao swè' which may account for the variations. ",
+      "ingredients":[
+        "noodle",
+        "coconut",
+        "chicken"
+      ],
+      "contains":[
+        "meat"
+      ]
+    },{
+      "id": "th09",
+      "name": "Krating Daeng",
+      "picture": "krating-daeng.jpg",
+      "description": "กระทิงแดง. A sweetened, non-carbonated energy drink developed by Chaleo Yoovidhya. The drink is mostly sold in Southeast Asia but can be found in Austria, Sweden, Denmark, Australia, Canada, New Zealand, and the United States where it is sometimes renamed 'Thai Red Bull'.",
+      "ingredients":[
+        "red-bull"
+      ],
+      "contains":[
+        ""
+      ]
+    },{
+      "id": "th10",
+      "name": "Mi krop",
+      "picture": "mi-krop.jpg",
+      "description": "หมี่กรอบ. A Thai dish. The name literally means 'crisp noodles'. It is made with rice noodles and a sauce that is predominantly sweet but can be balanced with an acidic flavor, usually lemon or lime.",
+      "ingredients":[
+        "noodle",
+        "lime"
+      ],
+      "contains":[
+        ""
+      ]
+    },{
+      "id": "th11",
+      "name": "Nam ngiao",
+      "picture": "nam-ngiao.jpg",
+      "description": "น้ำเงี้ยว. A noodle soup or curry of the cuisine of the Tai Yai people who live in the northeast of Burma and the southwest of Yunnan province, China. The dish has become famous through the northern Thai cuisine. Nam ngiao has a characteristic spicy and tangy flavor.",
+      "ingredients":[
+        "noodle",
+        "meat",
+        "pork",
+        "tomato",
+        "spicy"
+      ],
+      "contains":[
+        "pork",
+        "meat",
+        "spicy"
+      ]
+    },{
+      "id": "th12",
+      "name": "Nam tok",
+      "picture": "nam-tok.jpg",
+      "description": "น้ำตก. Either a soup or a meat salad. In the Thai language the phrase means waterfall. The meat salad is also part of Lao cuisine. In Central Thailand, nam tok is mainly a spicy soup stock enriched with raw cow blood or pig's blood. Blood is often used in Thailand to enrich regular noodle dishes.",
+      "ingredients":[
+        "noodle",
+        "pork",
+        "soy-sprout",
+        "vegetables",
+        "herbs"
+      ],
+      "contains":[
+        "pork",
+        "meat",
+        "spicy"
+      ]
+    },{
+      "id": "th13",
+      "name": "Phat si io",
+      "picture": "phat-si-io.jpg",
+      "description": "ผัดซีอิ๊ว. A Chinese-influenced stir fried noodle dish that is commonly eaten in Laos and Thailand.[1] It is also quite popular in Thai and Lao restaurants around the world. The name of the dish translates to 'fried (with) soy sauce' and it is very similar to the char kway teow of Singapore and Malaysia.",
+      "ingredients":[
+        "noodle",
+        "soy-sauce",
+        "garlic",
+        "egg",
+        "meat",
+        "vegetables"
+      ],
+      "contains":[
+        "meat",
+        "egg"
+      ]
+    },{
+      "id": "th14",
+      "name": "Phat Thai",
+      "picture": "phat-thai.jpg",
+      "description": "ผัดไทย. A stir-fried rice noodle dish commonly served as a street food and at casual local eateries in Thailand. It is made with soaked dried rice noodles, which are stir-fried with eggs and chopped firm tofu, and flavored with tamarind pulp, fish sauce, dried shrimp, garlic or shallots, red chili pepper and palm sugar, and served with lime wedges and often chopped roast peanuts.",
+      "ingredients":[
+        "noodle",
+        "egg",
+        "tofu",
+        "shrimp",
+        "garlic",
+        "spicy",
+        "lime",
+        "peanut"
+      ],
+      "contains":[
+        "egg",
+        "seafood",
+        "spicy"
+      ]
+    },{
+      "id": "th15",
+      "name": "Rat na",
+      "picture": "rat-na.jpg",
+      "description": "ราดหน้า. A Thai-Chinese noodle dish. It is made with stir-fried wide rice noodles, a form of meat such as chicken, beef, pork, seafood or tofu, and/or garlic, straw mushrooms and kai-lan.",
+      "ingredients":[
+        "noodle",
+        "meat",
+        "fish",
+        "tofu",
+        "soy-sauce"
+      ],
+      "contains":[
+        "meat",
+        "seafood"
+      ]
+    },{
+      "id": "th16",
+      "name": "Sai ua",
+      "picture": "sai-ua.jpg",
+      "description": "ไส้อั่ว. A grilled pork sausage from northern Thailand and northeastern Burma. In Thailand it is one of the typical foods of the northernmost Mae Hong Son, Chiang Mai, and Chiang Rai Provinces and it has become very popular in the rest of Thailand as well.",
+      "ingredients":[
+        "pork"
+      ],
+      "contains":[
+        "pork",
+        "meat"
+      ]
+    },{
+      "id": "th17",
+      "name": "Sangkhaya fak thong",
+      "picture": "sangkhaya-fak-thong.jpg",
+      "description": "สังขยาฟักทอง. A dessert dish consisting of a coconut custard steam-baked in a pumpkin or kabocha. Steamed pumpkin with an egg-and-coconut custard filling, similar to the coconut jam from Malaysia, Indonesia and the Philippines.",
+      "ingredients":[
+        "coconut",
+        "pumpkin",
+        "egg",
+        "sugar"
+      ],
+      "contains":[
+        "egg"
+      ]
+    },{
+      "id": "th18",
+      "name": "Som tam",
+      "picture": "som-tam.jpg",
+      "description": "ส้มตำ. A spicy salad made from shredded unripe papaya. It is of Lao origin but it is also eaten throughout Southeast Asia. The dish combines the five main tastes of the local cuisine: sour lime, hot chili, salty, savory fish sauce, and sweetness added by palm sugar.",
+      "ingredients":[
+        "papaya",
+        "bean",
+        "spicy",
+        "crab",
+        "plum",
+        "lime"
+      ],
+      "contains":[
+        "spicy",
+        "seafood"
+      ]
+    },{
+      "id": "th19",
+      "name": "Tom kha kai",
+      "picture": "tom-kha-kai.jpg",
+      "description": "ต้มข่าไก่. A spicy and sour hot soup with coconut milk in Lao cuisine and Thai cuisine. In Thailand, most tom kha kai recipes typically include coconut milk, galangal, kaffir lime leaves, lemongrass, Thai chili peppers, coriander (or dill weed), straw mushrooms (or shiitake or other mushrooms), chicken, fish sauce, and lime juice.",
+      "ingredients":[
+        "coconut",
+        "herbs",
+        "spicy",
+        "mushroom",
+        "chicken",
+        "lime"
+      ],
+      "contains":[
+        "meat",
+        "spicy",
+        "seafood"
+      ]
+    },{
+      "id": "th20",
+      "name": "Tom yum",
+      "picture": "tom-yum.jpg",
+      "description": "ต้มยำ. A Lao and Thai clear, spicy and sour soup. Tom yum is widely served in neighbouring countries such as Cambodia, Malaysia and Singapore, and has been popularised around the world. Literally, the words 'tom yum' are derived from two Tai words: 'tom' and 'yam'. 'Tom' refers to boiling process, while 'yam' refers to a kind of Lao and Thai spicy and sour salad.",
+      "ingredients":[
+        "fish",
+        "spicy",
+        "herbs"
+      ],
+      "contains":[
+        "seafood"
+      ]
+    }
+  ]
+}

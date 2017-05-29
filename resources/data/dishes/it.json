@@ -1,0 +1,305 @@
+{
+  "it": [
+    {
+      "id": "it01",
+      "name": "Agnolotti",
+      "picture": "agnolotti.jpg",
+      "description": "A type of pasta typical of the Piedmont region of Italy, made with small pieces of flattened pasta dough, folded over with a roast beef meat and vegetable stuffing.",
+      "ingredients":[
+        "flour",
+        "meat",
+        "vegetables"
+      ],
+      "contains":[
+        "meat",
+        "gluten"
+      ]
+    },{
+      "id": "it02",
+      "name": "Bruschetta",
+      "picture": "bruschetta.jpg",
+      "description": "An antipasto from Italy consisting of grilled bread rubbed with garlic and topped with tomatoes, olive oil, salt and pepper.",
+      "ingredients":[
+        "bread",
+        "garlic",
+        "olive-oil",
+        "vegetables",
+        "meat",
+        "cheese"
+      ],
+      "contains":[
+        "meat",
+        "dairy",
+        "gluten"
+      ]
+    },{
+      "id": "it04",
+      "name": "Cacciucco",
+      "picture": "cacciucco.jpg",
+      "description": "An Italian fish stew native to the western coastal towns of Tuscany and Liguria. It is especially associated with the port city of Livorno in Tuscany and the town of Viareggio to the north.",
+      "ingredients":[
+        "fish",
+        "mussel",
+        "shrimp"
+      ],
+      "contains":[
+        "seafood"
+      ]
+    },{
+      "id": "it06",
+      "name": "Cannoli",
+      "picture": "cannoli.jpg",
+      "description": " Italian pastry desserts. The singular is cannolo (or in the Sicilian language cannolu, plural cannola), meaning 'little tube', with the etymology stemming from the Latin 'canna', or reed. Cannoli originated in Sicily and are a staple of Sicilian cuisine.",
+      "ingredients":[
+        "puff-pastry",
+        "cheese",
+        "sugar"
+      ],
+      "contains":[
+        "gluten",
+        "dairy"
+      ]
+    },{
+      "id": "it07",
+      "name": "Cappon magro",
+      "picture": "cappon.jpg",
+      "description": "An elaborate and rich Genoese salad of seafood and vegetables over hard tack arranged into a decorative pyramid and dressed with a rich sauce.",
+      "ingredients":[
+        "shrimp",
+        "vegetables"
+      ],
+      "contains":[
+        "seafood"
+      ]
+    },{
+      "id": "it08",
+      "name": "Carbonara",
+      "picture": "carbonara.jpg",
+      "description": "An Italian pasta dish from Lazio, and more specifically Rome, based on eggs, cheese (Pecorino Romano or Parmigiano-Reggiano), bacon (guanciale or pancetta), and black pepper.",
+      "ingredients":[
+        "egg",
+        "cheese",
+        "bacon",
+        "black-pepper"
+      ],
+      "contains":[
+        "egg",
+        "pork",
+        "meat",
+        "dairy"
+      ]
+    },{
+      "id": "it09",
+      "name": "Cotoletta",
+      "picture": "cotoletta.jpg",
+      "description": "A fried cutlet similar to Wiener schnitzel, but cooked 'bone-in'. It is fried in clarified butter only and traditionally uses exclusively milk-fed veal.",
+      "ingredients":[
+        "veal",
+        "flour"
+      ],
+      "contains":[
+        "meat",
+        "gluten"
+      ]
+    },{
+      "id": "it10",
+      "name": "Insalata Caprese",
+      "picture": "caprese.jpg",
+      "description": "A simple salad, made of sliced fresh mozzarella, tomatoes and basil, seasoned with salt, and olive oil.",
+      "ingredients":[
+        "cheese",
+        "tomato",
+        "herbs",
+        "olive-oil"
+      ],
+      "contains":[
+        "dairy"
+      ]
+    },{
+      "id": "it11",
+      "name": "Lasagne",
+      "picture": "lasagne.jpg",
+      "description": "A wide, flat pasta shape, and possibly one of the oldest types of pasta. The word also refers to a dish made with several layers of lasagne sheets alternated with sauces and various other ingredients.",
+      "ingredients":[
+        "flour",
+        "meat",
+        "cream",
+        "tomato",
+        "cheese"
+      ],
+      "contains":[
+        "gluten",
+        "meat",
+        "dairy"
+      ]
+    },{
+      "id": "it12",
+      "name": "Minestrone",
+      "picture": "minestrone.jpg",
+      "description": "A thick soup of Italian origin made with vegetables, often with the addition of pasta or rice. Common ingredients include beans, onions, celery, carrots, stock, and tomatoes.",
+      "ingredients":[
+        "vegetables",
+        "tomato",
+        "rice",
+        "pasta"
+      ],
+      "contains":[
+        ""
+      ]
+    },{
+      "id": "it14",
+      "name": "Panzanella",
+      "picture": "panzanella.jpg",
+      "description": "A Tuscan salad of bread and tomatoes that's popular in the summer. It includes chunks of soaked stale bread and tomatoes, sometimes also onions and basil, dressed with olive oil and vinegar.",
+      "ingredients":[
+        "bread",
+        "tomato",
+        "onion",
+        "herbs",
+        "olive-oil"
+      ],
+      "contains":[
+        "gluten"
+      ]
+    },{
+      "id": "it17",
+      "name": "Pasta e fagioli",
+      "picture": "fagioli.jpg",
+      "description": "A traditional meatless Italian dish. Like many other Italian favorites including pizza and polenta, the dish started as a peasant dish, being composed of inexpensive ingredients.",
+      "ingredients":[
+        "pasta",
+        "white-bean",
+        "garlic",
+        "onion",
+        "tomato",
+        "olive-oil"
+      ],
+      "contains":[
+        "gluten"
+      ]
+    },{
+      "id": "it18",
+      "name": "Penne all'arrabbiata",
+      "picture": "arrabbiata.jpg",
+      "description": "Arrabbiata sauce, or sugo all'arrabbiata in Italian, is a spicy sauce for pasta made from garlic, tomatoes, and red chili peppers cooked in olive oil. 'Arrabbiata' literally means 'angry' in Italian, and the name of the sauce is due to the heat of the chili peppers.",
+      "ingredients":[
+        "pasta",
+        "tomato",
+        "spicy",
+        "garlic",
+        "olive-oil"
+      ],
+      "contains":[
+        "gluten",
+        "spicy"
+      ]
+    },{
+      "id": "it19",
+      "name": "Pesto",
+      "picture": "pesto.jpg",
+      "description": "A sauce originating in Genoa in the Liguria region of northern Italy (pesto genovese), and traditionally consists of crushed garlic, basil, and European pine nuts blended with olive oil, Parmigiano Reggiano, and Fiore Sardo.",
+      "ingredients":[
+        "garlic",
+        "herbs",
+        "pine-nut",
+        "olive-oil",
+        "cheese"
+      ],
+      "contains":[
+        "dairy",
+        "nuts"
+      ]
+    },{
+      "id": "it20",
+      "name": "Pizza",
+      "picture": "pizza.jpg",
+      "description": "An oven-baked flat bread typically topped with a tomato sauce, cheese and various toppings. The modern pizza was invented in Naples, Italy, and the dish has since become popular in many parts of the world.",
+      "ingredients":[
+        "dough",
+        "tomato",
+        "cheese",
+        "herbs"
+      ],
+      "contains":[
+        "gluten",
+        "dairy"
+      ]
+    },{
+      "id": "it21",
+      "name": "Polenta",
+      "picture": "polenta.jpg",
+      "description": "Cornmeal boiled into a porridge, and eaten directly or baked, fried or grilled. The term is of Italian origin, derived from the Latin for hulled and crushed grain (especially barley-meal). It comes from the same base as 'pollen'.",
+      "ingredients":[
+        "corn"
+      ],
+      "contains":[
+        ""
+      ]
+    },{
+      "id": "it22",
+      "name": "Ragù alla bolognese",
+      "picture": "bolognese.jpg",
+      "description": "A meat-based sauce originating from Bologna, Italy. In Italian cuisine, it is customarily used to dress 'tagliatelle al ragù' and to prepare 'lasagne alla bolognese'.",
+      "ingredients":[
+        "meat",
+        "onion",
+        "herbs",
+        "carrot",
+        "tomato",
+        "wine"
+      ],
+      "contains":[
+        "meat"
+      ]
+    },{
+      "id": "it25",
+      "name": "Risotto",
+      "picture": "risotto.jpg",
+      "description": "A north Italian rice dish cooked in broth to a creamy consistency. The broth may be based on meat, fish, or vegetable. Many types of risotto contain butter, wine and onion. It is one of the most common ways of cooking rice in Italy.",
+      "ingredients":[
+        "rice",
+        "meat",
+        "fish",
+        "vegetables",
+        "wine",
+        "onion"
+      ],
+      "contains":[
+        "meat",
+        "seafood"
+      ]
+    },{
+      "id": "it26",
+      "name": "Saltimbocca",
+      "picture": "saltimbocca.jpg",
+      "description": "A dish made of veal lined or topped with prosciutto and sage; marinated in wine, oil or saltwater depending on the region or one's own taste.",
+      "ingredients":[
+        "veal",
+        "bacon",
+        "white-wine"
+      ],
+      "contains":[
+        "pork",
+        "meat"
+      ]
+    },{
+      "id": "it27",
+      "name": "Tiramisu",
+      "picture": "tiramisu.jpg",
+      "description": "A popular coffee-flavoured Italian dessert. It is made of ladyfingers dipped in coffee, layered with a whipped mixture of eggs, sugar and mascarpone cheese, flavoured with cocoa.",
+      "ingredients":[
+        "egg",
+        "cocoa",
+        "coffee",
+        "cheese",
+        "biscuit",
+        "sugar"
+      ],
+      "contains":[
+        "egg",
+        "dairy",
+        "gluten"
+      ]
+    }
+  ]
+}

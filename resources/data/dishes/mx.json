@@ -1,0 +1,306 @@
+{
+  "mx": [
+    {
+      "id": "mx01",
+      "name": "Birria",
+      "picture": "birria.jpg",
+      "description": "A spicy Jaliscan (Jalisciense) stew originally made with goat then sheep and later beef (carne de res), but never with pork. Birria is often served during festive periods, such as Christmas, New Year's Eve, Mother's Day, and birthday parties.",
+      "ingredients":[
+        "meat",
+        "spicy"
+      ],
+      "contains":[
+        "meat",
+        "spicy"
+      ]
+    },{
+      "id": "mx02",
+      "name": "Chapulines",
+      "picture": "chapulines.jpg",
+      "description": "Grasshoppers of the genus Sphenarium, that are commonly eaten in certain areas of Mexico. After being thoroughly cleaned and washed, they are toasted on a comal (clay cooking surface) with garlic, lime juice and salt containing extract of agave worms, lending a sour-spicy-salty taste to the finished product.",
+      "ingredients":[
+        "grasshopper",
+        "garlic",
+        "lime"
+      ],
+      "contains":[
+        "insect"
+      ]
+    },{
+      "id": "mx03",
+      "name": "Chilaquiles",
+      "picture": "chilaquiles.jpg",
+      "description": "A traditional Mexican dish. Typically, corn tortillas cut in quarters and lightly fried are the basis of the dish. Green or red salsa or mole is poured over the crisp tortilla triangles, called totopos.",
+      "ingredients":[
+        "tortilla",
+        "chicken",
+        "cheese",
+        "bean",
+        "onion",
+        "avocado"
+      ],
+      "contains":[
+        "meat",
+        "gluten",
+        "dairy"
+      ]
+    },{
+      "id": "mx04",
+      "name": "Cochinita pibil",
+      "picture": "cochinita-pibil.jpg",
+      "description": "A traditional Mexican slow-roasted pork dish from the Yucatán Península of Mayan origin. Preparation of traditional cochinita or puerco pibil involves marinating the meat in strongly acidic citrus juice, coloring it with annatto seed, and roasting the meat while it is wrapped in banana leaf.",
+      "ingredients":[
+        "pork",
+        "lime"
+      ],
+      "contains":[
+        "pork",
+        "meat"
+      ]
+    },{
+      "id": "mx05",
+      "name": "Enchilada",
+      "picture": "enchilada.jpg",
+      "description": "A corn tortilla rolled around a filling and covered with a chili pepper sauce. Enchiladas can be filled with a variety of ingredients, including meat, cheese, beans, potatoes, vegetables, seafood or combinations.",
+      "ingredients":[
+        "tortilla",
+        "meat",
+        "spicy"
+      ],
+      "contains":[
+        "gluten",
+        "meat",
+        "spicy"
+      ]
+    },{
+      "id": "mx06",
+      "name": "Esquite",
+      "picture": "esquite.jpg",
+      "description": "A Mexican snack or antojito. Shops and market stalls selling corn also tend to sell Esquites. The word esquites comes from the Nahuatl word ízquitl, which means 'toasted corn'.",
+      "ingredients":[
+        "corn",
+        "onion",
+        "lime",
+        "mayonnaise",
+        "cheese",
+        "spicy"
+      ],
+      "contains":[
+        "dairy",
+        "spicy"
+      ]
+    },{
+      "id": "mx07",
+      "name": "Guacamole",
+      "picture": "guacamole.jpg",
+      "description": "An avocado-based dip that originated with the Aztecs in Mexico. It is traditionally made by mashing ripe avocados and sea salt with a molcajete (mortar and pestle). Some recipes call for tomato, onion, garlic, lemon juice, chili, yogurt and/or additional seasonings.",
+      "ingredients":[
+        "avocado"
+      ],
+      "contains":[
+        ""
+      ]
+    },{
+      "id": "mx08",
+      "name": "Huachinango",
+      "picture": "huachinango.jpg",
+      "description": "A classic fish dish from Veracruz, Mexico. The dish is a classic example of the cuisine of the southern coastal region of Eastern Mexico.",
+      "ingredients":[
+        "fish",
+        "onion",
+        "tomato",
+        "garlic",
+        "herbs",
+        "spicy"
+      ],
+      "contains":[
+        "seafood",
+        "spicy"
+      ]
+    },{
+      "id": "mx09",
+      "name": "Mezcal",
+      "picture": "mezcal.jpg",
+      "description": "A distilled alcoholic beverage made from the maguey plant (a form of agave, Agave americana) native to Mexico. The word mezcal comes from Nahuatl mexcalli metl and ixcalli which means 'oven-cooked agave'.",
+      "ingredients":[
+        "agave"
+      ],
+      "contains":[
+        "alcohol"
+      ]
+    },{
+      "id": "mx10",
+      "name": "Michelada",
+      "picture": "michelada.jpg",
+      "description": "A Mexican cerveza preparada made with beer, lime juice, and assorted sauces, spices, and peppers. It is served in a chilled, salt-rimmed glass. There are numerous variations of this beverage throughout Mexico and Latin America.",
+      "ingredients":[
+        "beer",
+        "lime",
+        "spicy"
+      ],
+      "contains":[
+        "spicy"
+      ]
+    },{
+      "id": "mx11",
+      "name": "Mole",
+      "picture": "mole.jpg",
+      "description": "The generic name for a number of sauces originally used in Mexican cuisine, as well as for dishes based on these sauces. Outside of Mexico, it often refers specifically to mole poblano.",
+      "ingredients":[
+        "spicy",
+        "garlic",
+        "tomato",
+        "herbs",
+        "cocoa"
+      ],
+      "contains":[
+        "spicy"
+      ]
+    },{
+      "id": "mx12",
+      "name": "Pozole",
+      "picture": "pozole.jpg",
+      "description": "A traditional pre-Columbian soup or stew from Mexico, which once had ritual significance. It is made from nixtamalized cacahuazintle maize, with meat, usually pork, chicken, turkey, pork rinds, chili peppers, and other seasonings and garnish.",
+      "ingredients":[
+        "corn",
+        "pork",
+        "herbs"
+      ],
+      "contains":[
+        "pork",
+        "meat"
+      ]
+    },{
+      "id": "mx13",
+      "name": "Pulque",
+      "picture": "pulque.jpg",
+      "description": "An alcoholic beverage made from the fermented sap of the maguey (agave) plant. It is traditional to central Mexico, where it has been produced for millennia. It has the color of milk, somewhat viscous consistency and a sour yeast-like taste. The drink’s history extends far back into the Mesoamerican period, when it was considered sacred, and its use was limited to certain classes of people.",
+      "ingredients":[
+        "agave"
+      ],
+      "contains":[
+        "alcohol"
+      ]
+    },{
+      "id": "mx14",
+      "name": "Quesadilla",
+      "picture": "quesadilla.jpg",
+      "description": "A flour tortilla or a corn tortilla filled with a savoury mixture containing cheese, other ingredients, and/or vegetables, (often) then folded in half to form a half-moon shape.",
+      "ingredients":[
+        "tortilla",
+        "cheese",
+        "meat",
+        "bean",
+        "avocado",
+        "vegetables"
+      ],
+      "contains":[
+        "gluten",
+        "meat",
+        "dairy"
+      ]
+    },{
+      "id": "mx15",
+      "name": "Sope",
+      "picture": "sope.jpg",
+      "description": "A traditional Mexican dish originating in the central and southern parts of Mexico, where it was sometimes first known as pellizcadas. It is an antojito which at first sight looks like an unusually thick tortilla with vegetables and meat toppings.",
+      "ingredients":[
+        "tortilla",
+        "meat",
+        "cheese",
+        "bean",
+        "onion",
+        "spicy"
+      ],
+      "contains":[
+        "gluten",
+        "meat",
+        "dairy",
+        "spicy"
+      ]
+    },{
+      "id": "mx16",
+      "name": "Taco",
+      "picture": "taco.jpg",
+      "description": "A traditional Mexican dish composed of a corn or wheat tortilla folded or rolled around a filling. A taco can be made with a variety of fillings, including beef, pork, chicken, seafood, vegetables and cheese, allowing for great versatility and variety.",
+      "ingredients":[
+        "tortilla",
+        "meat",
+        "vegetables",
+        "cheese",
+        "spicy"
+      ],
+      "contains":[
+        "gluten",
+        "meat",
+        "dairy",
+        "spicy"
+      ]
+    },{
+      "id": "mx17",
+      "name": "Tamal",
+      "picture": "tamal.jpg",
+      "description": "A traditional Mesoamerican dish made of masa (a starchy dough, usually corn-based), which is steamed or boiled in a leaf wrapper. amales can be filled with meats, cheeses, fruits, vegetables, chilies or any preparation according to taste, and both the filling and the cooking liquid may be seasoned.",
+      "ingredients":[
+        "corn",
+        "meat",
+        "cheese",
+        "vegetables",
+        "spicy"
+      ],
+      "contains":[
+        "meat",
+        "dairy",
+        "spicy"
+      ]
+    },{
+      "id": "mx18",
+      "name": "Tequila",
+      "picture": "tequila.jpg",
+      "description": "A regional specific name for a distilled beverage made from the blue agave plant, primarily in the area surrounding the city of Tequila, 65 km (40 mi) northwest of Guadalajara, and in the highlands (Los Altos) of the north western Mexican state of Jalisco.",
+      "ingredients":[
+        "agave"
+      ],
+      "contains":[
+        "alcohol"
+      ]
+    },{
+      "id": "mx19",
+      "name": "Tlayuda",
+      "picture": "tlayuda.jpg",
+      "description": "A handmade dish in traditional Mexican cuisine, consisting of a large, thin, crunchy, partially fried or toasted tortilla covered with a spread of refried beans, asiento (unrefined pork lard), lettuce or cabbage, avocado, meat (usually shredded chicken, beef tenderloin or pork), Oaxaca cheese, and salsa.",
+      "ingredients":[
+        "tortilla",
+        "bean",
+        "pork",
+        "meat",
+        "cheese",
+        "avocado"
+      ],
+      "contains":[
+        "gluten",
+        "meat",
+        "dairy",
+        "spicy"
+      ]
+    },{
+      "id": "mx20",
+      "name": "Torta",
+      "picture": "torta.jpg",
+      "description": "A kind of sandwich, served on an oblong 15 cm firm, crusty white sandwich roll, called a bolillo, telera, birote, or pan francés, depending on the region. Tortas can be eaten cold or hot, grilled or toasted in a press in the same manner as a cuban sandwich or panini.",
+      "ingredients":[
+        "bread",
+        "meat",
+        "avocado",
+        "tomato",
+        "onion",
+        "spicy"
+      ],
+      "contains":[
+        "gluten",
+        "meat",
+        "spicy"
+      ]
+    }
+  ]
+}

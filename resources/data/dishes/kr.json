@@ -1,0 +1,280 @@
+{
+  "kr": [
+    {
+      "id": "kr01",
+      "name": "Bibimbap",
+      "picture": "bibimbap.jpg",
+      "description": "비빔밥. A signature Korean dish. The word literally means 'mixed rice'. Bibimbap is served as a bowl of warm white rice topped with namul (sautéed and seasoned vegetables) and gochujang (chili pepper paste), soy sauce, or doenjang. A raw or fried egg and sliced meat (usually beef) are common additions. The ingredients are stirred together thoroughly just before eating",
+      "ingredients":[
+        "rice",
+        "vegetables",
+        "spicy",
+        "soy-sauce",
+        "egg",
+        "meat"
+      ],
+      "contains":[
+        "egg",
+        "meat",
+        "spicy"
+      ]
+    },{
+      "id": "kr02",
+      "name": "Bulgogi",
+      "picture": "bulgogi.jpg",
+      "description": "불고기. A Korean dish that usually consists of grilled marinated beef. Bulgogi is made from thin slices of sirloin or other prime cuts of beef. Before cooking, the meat is marinated to enhance its flavour and tenderness with a mixture of soy sauce, sugar, sesame oil, garlic, pepper and other ingredients such as scallions, ginger, onions or mushrooms, especially white button mushrooms or matsutake.",
+      "ingredients":[
+        "meat",
+        "soy-sauce",
+        "garlic",
+        "sugar",
+        "onion"
+      ],
+      "contains":[
+        "meat"
+      ]
+    },{
+      "id": "kr03",
+      "name": "Galbi",
+      "picture": "galbi.jpg",
+      "description": "갈비. Refers to a variety of gui or grilled dishes in Korean cuisine that are made with marinated beef (or pork) short ribs in a ganjang-based sauce (Korean soy sauce).",
+      "ingredients":[
+        "meat",
+        "soy-sauce"
+      ],
+      "contains":[
+        "meat"
+      ]
+    },{
+      "id": "kr04",
+      "name": "Hoe",
+      "picture": "hoe.jpg",
+      "description": "회. may refer to various raw food dishes in Korean cuisine. Saengseon hoe (생선회) or 'Hwal-eo hoe' (활어회) is thinly sliced raw fish or other raw seafood (similar to Japanese sashimi); yukhoe (육회) is hoe made with raw beef and seasoned with soy sauce, sesame oil, and rice wine; and gan hoe (간회) is raw beef liver with a sauce of sesame oil and salt.",
+      "ingredients":[
+        "fish"
+      ],
+      "contains":[
+        "seafood"
+      ]
+    },{
+      "id": "kr05",
+      "name": "Hoppang",
+      "picture": "hoppang.jpg",
+      "description": "호빵. A warm snack sold throughout Korea. It is a pre-cooked ball of rice flour filled with something such as red bean paste, similar to Chinese dòushābāo.",
+      "ingredients":[
+        "rice"
+      ],
+      "contains":[
+        ""
+      ]
+    },{
+      "id": "kr06",
+      "name": "Jajangmyeon",
+      "picture": "jajangmyeon.jpg",
+      "description": "자장면. A noodle dish topped with a thick sauce made of chunjang (a salty black soybean paste), diced pork and vegetables, and sometimes also seafood.",
+      "ingredients":[
+        "noodle",
+        "pork",
+        "vegetables"
+      ],
+      "contains":[
+        "pork",
+        "meat"
+      ]
+    },{
+      "id": "kr07",
+      "name": "Japchae",
+      "picture": "japchae.jpg",
+      "description": "잡채. A Korean dish made from sweet potato noodles (called dangmyeon, Korean: 당면), stir fried in sesame oil with vegetables (typically thinly sliced carrots, onion, spinach, and mushrooms), sometimes served with beef, and flavoured with soy sauce, and sweetened with sugar. It is usually served garnished with sesame seeds and slivers of chili.",
+      "ingredients":[
+        "noodle",
+        "vegetables",
+        "onion",
+        "mushroom",
+        "meat",
+        "soy-sauce"
+      ],
+      "contains":[
+        "meat",
+        "spicy"
+      ]
+    },{
+      "id": "kr08",
+      "name": "Kalguksu",
+      "picture": "kalguksu.jpg",
+      "description": "칼국수. A Korean noodle dish consisting of handmade, knife-cut wheat flour noodles served in a large bowl with broth and other ingredients. It is traditionally considered a seasonal food, consumed most often in summer. Its name comes from the fact that the noodles are not extruded or spun, but cut.",
+      "ingredients":[
+        "noodle",
+        "vegetables",
+        "potato",
+        "onion"
+      ],
+      "contains":[
+        "egg"
+      ]
+    },{
+      "id": "kr09",
+      "name": "Kimchi",
+      "picture": "kimchi.jpg",
+      "description": "김치. A traditional fermented Korean side dish made of vegetables with a variety of seasonings. It is often described as spicy and sour. In traditional preparation kimchi is often allowed to ferment underground in jars for months. There are hundreds of varieties of kimchi made from napa cabbage, radish, scallion, or cucumber as a main ingredient.",
+      "ingredients":[
+        "vegetables",
+        "herbs",
+        "spicy"
+      ],
+      "contains":[
+        "spicy"
+      ]
+    },{
+      "id": "kr10",
+      "name": "Kimchi jjigae",
+      "picture": "kimchi-jjigae.jpg",
+      "description": "김치찌개. A variety of jjigae, or stew-like Korean dish, made with kimchi and other ingredients, such as scallions, onions, diced tofu, pork, and seafood, although pork and seafood are generally not used in the same recipe. It is one of the most common jjigae in Korea.",
+      "ingredients":[
+        "vegetables",
+        "herbs",
+        "spicy",
+        "onion",
+        "tofu",
+        "pork"
+      ],
+      "contains":[
+        "pork",
+        "meat",
+        "spicy"
+      ]
+    },{
+      "id": "kr11",
+      "name": "Makgeolli",
+      "picture": "makgeolli.jpg",
+      "description": "막걸리. An alcoholic beverage native to Korea. It is made from rice or wheat mixed with nuruk, a Korean fermentation starter. It has a milky, off-white color and sweetness, and is about 6–8% alcohol by volume. Makgeolli is traditionally made from rice, although variations are made from wheat, and some brands are flavored with corn, chestnut, apple or other produce.",
+      "ingredients":[
+        "rice",
+        "wheat"
+      ],
+      "contains":[
+        "alcohol"
+      ]
+    },{
+      "id": "kr12",
+      "name": "Miyeok guk",
+      "picture": "miyeok-guk.jpg",
+      "description": "미역국. A Korean soup made from the sea vegetable known as wakame or 'sea mustard' in English. It comprises two words: miyeok, the Korean word for wakame; and guk, meaning 'soup'. Miyeok guk is typically consumed by women after giving birth as wakame contains a high content of calcium and iodine, nutrients that are important for nursing mothers.",
+      "ingredients":[
+        "seaweed"
+      ],
+      "contains":[
+        ""
+      ]
+    },{
+      "id": "kr13",
+      "name": "Naengmyeon",
+      "picture": "naengmyeon.jpg",
+      "description": "냉면. A Korean noodle dish of long and thin handmade noodles made from the flour and starch of various ingredients: buckwheat (메밀, memil), potatoes, sweet potatoes, 칡냉면, naengmyun made with the starch from arrowroot (darker color and chewier than buckwheat noodles), and kudzu (칡, chik). Varieties with ingredients such as seaweed and green tea are available.",
+      "ingredients":[
+        "noodle",
+        "flour",
+        "wheat",
+        "potato"
+      ],
+      "contains":[
+        "gluten"
+      ]
+    },{
+      "id": "kr14",
+      "name": "Pajeon",
+      "picture": "pajeon.jpg",
+      "description": "파전. A variety of jeon with green onions as its prominent ingredient, as pa literally means 'green/spring onion' in Korean. It is a pancake-like Korean dish made from a batter of eggs, wheat flour, rice flour, green onions, and often other additional ingredients depending on the variety. Beef, pork, kimchi, shellfish, and other seafood are mostly used.",
+      "ingredients":[
+        "egg",
+        "rice",
+        "wheat",
+        "onion"
+      ],
+      "contains":[
+        "egg"
+      ]
+    },{
+      "id": "kr15",
+      "name": "Patbingsu",
+      "picture": "patbingsu.jpg",
+      "description": "팥빙수. A Korean shaved ice dessert with sweet toppings such as chopped fruit, condensed milk, fruit syrup, and red bean paste. The snack is highly popular in South Korea.",
+      "ingredients":[
+        "bean",
+        "milk"
+      ],
+      "contains":[
+        "dairy"
+      ]
+    },{
+      "id": "kr16",
+      "name": "Samgyeopsal",
+      "picture": "samgyeopsal.jpg",
+      "description": "삼겹살. A popular Korean dish that is commonly served as an evening meal. It consists of thick, fatty slices of pork belly meat. The meat, usually neither marinated nor seasoned, is cooked on a grill at the diners’ table.",
+      "ingredients":[
+        "pork"
+      ],
+      "contains":[
+        "meat",
+        "pork"
+      ]
+    },{
+      "id": "kr17",
+      "name": "Samgyetang",
+      "picture": "samgyetang.jpg",
+      "description": "삼계탕. A variety of guk Korean soup, which primarily consists of a whole young chicken and Korean ginseng. The dish's name literally translates as 'ginseng chicken soup' in English. Samgyetang is traditionally served in the summer for its supposed nutrients, which replaces those lost through excessive sweating and physical exertion during the hot summers in Korea.",
+      "ingredients":[
+        "chicken",
+        "ginger"
+      ],
+      "contains":[
+        "meat"
+      ]
+    },{
+      "id": "kr18",
+      "name": "Tteokbokki",
+      "picture": "tteokbokki.jpg",
+      "description": "떡볶이. A popular Korean snack food made from soft rice cake, fish cake and sweet red chili sauce. It is commonly purchased from street vendors or pojangmacha. Originally it was called tteok jjim (떡찜) and was a savory braised dish of sliced rice cake, meat, eggs, and seasoning.",
+      "ingredients":[
+        "rice",
+        "fish",
+        "spicy"
+      ],
+      "contains":[
+        "seafood",
+        "spicy"
+      ]
+    },{
+      "id": "kr19",
+      "name": "Soju",
+      "picture": "soju.jpg",
+      "description": "소주. A distilled beverage containing ethanol and water. Jinro and Lotte soju are the first and third top selling alcohol brands in the world. It is usually consumed neat. Most brands of soju are made in South Korea. It is traditionally made from rice, wheat, or barley, but modern producers of soju use supplements or even replace rice with other starches, such as potatoes, sweet potatoes, or tapioca.",
+      "ingredients":[
+        "rice",
+        "gin"
+      ],
+      "contains":[
+        "alcohol"
+      ]
+    },{
+      "id": "kr20",
+      "name": "Sundubu jjigae",
+      "picture": "sundubu-jjigae.jpg",
+      "description": "순두부찌개. A hot and spicy jjigae (Korean stew) dish made with uncurdled dubu (tofu), seafood (oysters, mussels, clams and shrimp are common ingredients), vegetables, mushrooms, onion, scallions, and gochujang or gochu garu (chili powder) in Korean cuisine.",
+      "ingredients":[
+        "spicy",
+        "tofu",
+        "mussel",
+        "clam",
+        "shrimp",
+        "vegetables",
+        "mushroom",
+        "onion"
+      ],
+      "contains":[
+        "spicy",
+        "seafood"
+      ]
+    }
+  ]
+}

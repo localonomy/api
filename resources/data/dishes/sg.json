@@ -1,0 +1,298 @@
+{
+  "sg": [
+    {
+      "id": "sg01",
+      "name": "Bak kut teh",
+      "picture": "bak-kut-teh.jpg",
+      "description": "A Chinese soup popularly served in Malaysia, Singapore,(where there is a predominant Hoklo and Teochew community) and also, neighbouring areas like Riau Islands and Southern Thailand. The name literally translates as 'meat bone tea', and at its simplest, consists of meaty pork ribs simmered in a complex broth of herbs and spices (including star anise, cinnamon, cloves, dang gui, fennel seeds and garlic) for hours",
+      "ingredients":[
+        "pork",
+        "garlic",
+        "cinnamon",
+        "herbs"
+      ],
+      "contains":[
+        "pork",
+        "meat"
+      ]
+    },{
+      "id": "sg02",
+      "name": "Black pepper crab",
+      "picture": "black-pepper-crab.jpg",
+      "description": "One of the two most popular ways that crab is served in Singapore. It is made with hard-shell crabs, and fried with black pepper. Unlike the other popular chilli crab dish, it is less heavy due to the absence of a sauce.",
+      "ingredients":[
+        "crab",
+        "black-pepper"
+      ],
+      "contains":[
+        "seafood"
+      ]
+    },{
+      "id": "sg03",
+      "name": "Chai tow kway",
+      "picture": "carrot-cake.jpg",
+      "description": "A common dish or dim sum of Teochew cuisine in Chaoshan (China), Singapore and Malaysia, consisting of stir-fried cubes of radish cake. It is also known as carrot cake.",
+      "ingredients":[
+        "flour",
+        "radish"
+      ],
+      "contains":[
+        ""
+      ]
+    },{
+      "id": "sg04",
+      "name": "Char kway teow",
+      "picture": "char-kway-teow.jpg",
+      "description": "A popular noodle dish in Malaysia, Singapore, Brunei and Indonesia. The dish is considered a national favourite in Malaysia and Singapore. It is made from flat rice noodles (河粉 hé fěn in Chinese) of approximately 1 cm or (in the north of Malaysia) about 0.5 cm in width, stir-fried over very high heat with light and dark soy sauce, chilli, a small quantity of belachan, whole prawns, deshelled cockles, bean sprouts and chopped Chinese chives. The dish is commonly stir-fried with egg, slices of Chinese sausage and fishcake, and less commonly with other ingredients.",
+      "ingredients":[
+        "noodle",
+        "soy-sauce",
+        "soy-sprout",
+        "shrimp",
+        "clam",
+        "spicy"
+      ],
+      "contains":[
+        "seafood"
+      ]
+    },{
+      "id": "sg05",
+      "name": "Chicken rice",
+      "picture": "chicken-rice.jpg",
+      "description": "A dish adapted from early Chinese immigrants originally from the Hainan province in southern China. It is considered one of the national dishes of Singapore.",
+      "ingredients":[
+        "chicken",
+        "rice"
+      ],
+      "contains":[
+        "meat"
+      ]
+    },{
+      "id": "sg06",
+      "name": "Chilli crab",
+      "picture": "chilli-crab.jpg",
+      "description": "A seafood dish popular in Singapore. Mud crabs are commonly used and are stir-fried in a semi-thick, sweet and savoury tomato and chilli based sauce. Despite its name, chilli crab is not a very spicy dish.",
+      "ingredients":[
+        "crab",
+        "tomato",
+        "spicy"
+      ],
+      "contains":[
+        "seafood"
+      ]
+    },{
+      "id": "sg07",
+      "name": "Duck rice",
+      "picture": "duck-rice.jpg",
+      "description": "A Singaporean Chinese meat dish, made of either braised or roasted duck and plain white rice.",
+      "ingredients":[
+        "duck",
+        "rice"
+      ],
+      "contains":[
+        "meat"
+      ]
+    },{
+      "id": "sg08",
+      "name": "Fish head curry",
+      "picture": "fish-head-curry.jpg",
+      "description": "A dish in Malaysian and Singaporean cuisine with Chinese and Indian origins and also popular in Nepal. The head of a red snapper is semi-stewed in a Kerala-style curry with assorted vegetables such as okra and eggplants. It is usually served with either rice or bread, or as a shared dish.",
+      "ingredients":[
+        "fish",
+        "vegetables",
+        "okra",
+        "eggplant"
+      ],
+      "contains":[
+        "seafood"
+      ]
+    },{
+      "id": "sg09",
+      "name": "Fish soup bee hoon",
+      "picture": "fish-soup-bee-hoon.jpg",
+      "description": "A Singaporean soup-based seafood dish, served hot usually with bee hoon. The dish is viewed as a healthy food in Singapore.",
+      "ingredients":[
+        "fish",
+        "noodle",
+        "cassava",
+        "milk"
+      ],
+      "contains":[
+        "seafood",
+        "dairy"
+      ]
+    },{
+      "id": "sg10",
+      "name": "Hokkien mee",
+      "picture": "hokkien-mee.jpg",
+      "description": "A dish in Malaysian and Singaporean cuisine that has its origins in the cuisine of China's Fujian (Hokkien) province. In its most common form, the dish consists of egg noodles and rice noodles stir-fried with egg, slices of pork, prawns and squid, and served and garnished with vegetables, small pieces of lard, sambal sauce and lime (for adding the lime juice to the dish).",
+      "ingredients":[
+        "noodle",
+        "egg",
+        "pork",
+        "shrimp"
+      ],
+      "contains":[
+        "egg",
+        "pork",
+        "meat",
+        "seafood"
+      ]
+    },{
+      "id": "sg11",
+      "name": "Ice kacang",
+      "picture": "ice-kacang.jpg",
+      "description": "A Malaysian dessert which is also common in Singapore and Brunei. Traditionally, an ice shaving machine is used to churn out the shaved ice used in the dessert, originally hand cranked but now more often motorized. Many Southeast Asian coffee shops, hawker centres, and food courts offer this dessert.",
+      "ingredients":[
+        "bean",
+        "corn",
+        "sugar"
+      ],
+      "contains":[
+        ""
+      ]
+    },{
+      "id": "sg12",
+      "name": "Kaya toast",
+      "picture": "kaya-toast.jpg",
+      "description": "A well-known snack in Singapore and Malaysia. Kaya toast is prepared with kaya (coconut jam), a topping of sugar, coconut milk and eggs, pandan, and sometimes margarine or butter. It is generally served on toast, and also sometimes on crackers. It is considered a breakfast staple, and remains popular in Singapore. The dish is sometimes dipped into soft-boiled egg.",
+      "ingredients":[
+        "bread",
+        "coconut",
+        "sugar",
+        "egg"
+      ],
+      "contains":[
+        "egg"
+      ]
+    },{
+      "id": "sg13",
+      "name": "Laksa",
+      "picture": "laksa.jpg",
+      "description": "A popular spicy noodle soup from the Peranakan cuisine, which is a combination of Chinese and Malay cuisine. Katong laksa is a variant of laksa lemak from the Katong area of Singapore. In Katong laksa, the noodles are normally cut up into smaller pieces so that the entire dish can be eaten with a spoon alone, without chopsticks or a fork. Katong laksa is a strong contender for the heavily competed title of Singapore's national dish.",
+      "ingredients":[
+        "noodle",
+        "coconut",
+        "shrimp",
+        "spicy"
+      ],
+      "contains":[
+        "seafood",
+        "spicy"
+      ]
+    },{
+      "id": "sg14",
+      "name": "Murtabak",
+      "picture": "murtabak.jpg",
+      "description": "A stuffed pancake or pan-fried bread which is commonly found in Saudi Arabia (especially the Tihamah and the Hejaz regions), Yemen, India, Indonesia, Malaysia, Singapore, Brunei and Thailand. Depending on the location, the name and ingredients can significantly vary. The name mutabbaq (or sometimes mutabbag) in Arabic means 'folded'.",
+      "ingredients":[
+        "dough",
+        "meat",
+        "onion",
+        "egg",
+        "herbs"
+      ],
+      "contains":[
+        "meat",
+        "gluten"
+      ]
+    },{
+      "id": "sg15",
+      "name": "Nasi goreng",
+      "picture": "nasi-goreng.jpg",
+      "description": "Literally meaning 'fried rice' in Indonesian and Malay, it can refer simply to fried pre-cooked rice, a meal including stir fried rice in small amount of cooking oil or margarine, typically spiced with kecap manis (sweet soy sauce), shallot, garlic, tamarind and chilli and accompanied by other ingredients, particularly egg, chicken and prawns.",
+      "ingredients":[
+        "rice",
+        "soy-sauce",
+        "garlic",
+        "spicy",
+        "egg",
+        "chicken",
+        "shrimp",
+        "vegetables"
+      ],
+      "contains":[
+        "egg",
+        "meat",
+        "spicy",
+        "seafood"
+      ]
+    },{
+      "id": "sg16",
+      "name": "Nasi lemak",
+      "picture": "nasi-lemak.jpg",
+      "description": "a fragrant rice dish cooked in coconut milk and 'pandan' leaf commonly found in Malaysia, where it is considered the national dish. It also popular in neighboring country such as Brunei; Singapore; Riau Islands; and Southern Thailand.",
+      "ingredients":[
+        "rice",
+        "coconut",
+        "egg",
+        "lamb",
+        "peanut",
+        "spicy"
+      ],
+      "contains":[
+        "egg",
+        "meat",
+        "spicy",
+        "nuts"
+      ]
+    },{
+      "id": "sg17",
+      "name": "Roti prata",
+      "picture": "roti-prata.jpg",
+      "description": "A fried flour-based pancake that is cooked over a flat grill. It is usually served with a vegetable or meat based curry and is from Malaysia and Singapore. Prata is also commonly cooked (upon request) with cheese, onion, banana, red bean, chocolate, mushroom or egg.",
+      "ingredients":[
+        "flour",
+        "cheese",
+        "meat",
+        "onion",
+        "vegetables"
+      ],
+      "contains":[
+        "dairy",
+        "meat"
+      ]
+    },{
+      "id": "sg18",
+      "name": "Satay",
+      "picture": "satay.jpg",
+      "description": "A dish of seasoned, skewered and grilled meat, served with a sauce. Satay may consist of diced or sliced chicken, goat, mutton, beef, pork, fish, other meats, or tofu; the more authentic version uses skewers from the midrib of the coconut palm frond, although bamboo skewers are often used. These are grilled or barbecued over a wood or charcoal fire, then served with various spicy seasonings.",
+      "ingredients":[
+        "meat",
+        "peanut"
+      ],
+      "contains":[
+        "meat",
+        "nuts"
+      ]
+    },{
+      "id": "sg19",
+      "name": "Singapore Sling",
+      "picture": "singapore-sling.jpg",
+      "description": "A South-East Asian cocktail. This long drink was developed sometime before 1915 by Ngiam Tong Boon, a Hainanese bartender working at the Long Bar in Raffles Hotel Singapore. It was initially called the gin sling, - a sling was originally an American drink composed of spirit and water, sweetened and flavored.",
+      "ingredients":[
+        "gin",
+        "grenadine",
+        "pineapple",
+        "lime"
+      ],
+      "contains":[
+        "alcohol"
+      ]
+    },{
+      "id": "sg20",
+      "name": "Wonton noodles",
+      "picture": "wonton.jpg",
+      "description": "Singapore wonton noodles includes noodles, leafy vegetables (preferably cai-xin), Barbecued Pork (char siu) and bite-sized dumplings or wonton. It is either served dry or in soup form with the former being more popular. If served dry, the wontons will be served in a separate bowl of soup. Shui jiao or prawn dumplings are served at some stalls and the original Hong Kong version is available at Cantonese restaurants and noodle joints.",
+      "ingredients":[
+        "noodle",
+        "vegetables",
+        "pork"
+      ],
+      "contains":[
+        "pork",
+        "meat"
+      ]
+    }
+  ]
+}

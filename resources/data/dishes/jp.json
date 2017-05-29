@@ -1,0 +1,277 @@
+{
+  "jp": [
+    {
+      "id": "jp01",
+      "name": "Bento",
+      "picture": "bento.jpg",
+      "description": "弁当. A single-portion takeout or home-packed meal common in Japanese cuisine. A traditional bento holds rice, fish or meat, with pickled or cooked vegetables, usually in a box-shaped container. Containers range from disposable mass produced to hand crafted lacquerware.",
+      "ingredients":[
+        "rice",
+        "fish",
+        "meat",
+        "vegetables"
+      ],
+      "contains":[
+        "meat",
+        "seafood"
+      ]
+    },{
+      "id": "jp02",
+      "name": "Gyōza",
+      "picture": "gyoza.jpg",
+      "description": "餃子. Chinese ravioli-dumplings (potstickers), usually filled with pork and vegetables (spring onion, leek, cabbage, garlic, and ginger) and pan-fried. The most prominent differences between Japanese-style gyōza and Chinese-style jiaozi are the rich garlic flavor, which is less noticeable in the Chinese version, the light seasoning of Japanese gyōza with salt and soy sauce, and the fact that gyōza wrappers are much thinner",
+      "ingredients":[
+        "dough",
+        "meat",
+        "vegetables"
+      ],
+      "contains":[
+        "gluten",
+        "meat"
+      ]
+    },{
+      "id": "jp03",
+      "name": "Gyūdon",
+      "picture": "gyudon.jpg",
+      "description": "牛丼. A Japanese dish consisting of a bowl of rice topped with beef and onion simmered in a mildly sweet sauce flavored with dashi (fish and seaweed stock), soy sauce and mirin (sweet rice wine). It also often includes shirataki noodles, and is sometimes topped with a raw egg.",
+      "ingredients":[
+        "rice",
+        "meat",
+        "onion",
+        "soy-sauce",
+        "egg"
+      ],
+      "contains":[
+        "meat",
+        "egg"
+      ]
+    },{
+      "id": "jp04",
+      "name": "Japanese curry",
+      "picture": "japanese-curry.jpg",
+      "description": "カレー. One of the most popular dishes in Japan. It is commonly served in three main forms: curry rice (カレーライス, curry over rice), curry udon (curry over noodles), and curry bread (a curry-filled pastry). Curry was introduced to Japan during the Meiji era (1868–1912) by the British, at a time when India was under their administration.  It has been adapted since its introduction to Japan, and is so widely consumed that it can be called a national dish.",
+      "ingredients":[
+        "potato",
+        "carrot",
+        "onion",
+        "meat"
+      ],
+      "contains":[
+        "meat"
+      ]
+    },{
+      "id": "jp05",
+      "name": "Katsudon",
+      "picture": "katsudon.jpg",
+      "description": "カツ丼. A popular Japanese food, a bowl of rice topped with a deep-fried pork cutlet, egg, and condiments. The dish takes its name from the Japanese words tonkatsu (for pork cutlet) and donburi (for rice bowl dish). It has become a modern ritual tradition for Japanese students to eat katsudon the night before taking a major test or school entrance exam. This is because 'katsu' is a homophone of the verb 勝つ katsu, meaning 'to win' or 'to be victorious'.",
+      "ingredients":[
+        "rice",
+        "pork",
+        "egg",
+        "flour"
+      ],
+      "contains":[
+        "pork",
+        "meat",
+        "gluten"
+      ]
+    },{
+      "id": "jp06",
+      "name": "Matcha ice cream",
+      "picture": "matcha-ice-cream.jpg",
+      "description": "抹茶アイスクリーム. A Japanese ice cream flavor. This flavor is extremely popular in Japan and other parts of East Asia. Green tea ice cream is also sold in monaka form.",
+      "ingredients":[
+        "matcha",
+        "sugar"
+      ],
+      "contains":[
+        ""
+      ]
+    },{
+      "id": "jp07",
+      "name": "Miso soup",
+      "picture": "miso-soup.jpg",
+      "description": "味噌汁. A traditional Japanese soup consisting of a stock called 'dashi' into which softened miso paste is mixed. Many ingredients are added depending on regional and seasonal recipes, and personal preference.",
+      "ingredients":[
+        "soy-sprout",
+        "tofu",
+        "onion",
+        "seaweed",
+        "herbs"
+      ],
+      "contains":[
+        ""
+      ]
+    },{
+      "id": "jp08",
+      "name": "Nattō",
+      "picture": "natto.jpg",
+      "description": "なっとう. A traditional Japanese food made from soybeans fermented with Bacillus subtilis var. natto. Some eat it as a breakfast food. Nattō may be an acquired taste because of its powerful smell, strong flavor, and slimy texture. In Japan nattō is most popular in the eastern regions, including Kantō, Tōhoku, and Hokkaido. Beyond Japan in the far corner of northeastern India Manipur Natto alike Hawaijar is very famous among the people.",
+      "ingredients":[
+        "soy-sprout"
+      ],
+      "contains":[
+        ""
+      ]
+    },{
+      "id": "jp09",
+      "name": "Okonomiyaki",
+      "picture": "okonomiyaki.jpg",
+      "description": "お好み焼き. A Japanese savoury pancake containing a variety of ingredients. The name is derived from the word okonomi, meaning 'what you like' or 'what you want', and yaki meaning 'grilled' or 'cooked' (cf. yakitori and yakisoba). Okonomiyaki is mainly associated with the Kansai or Hiroshima areas of Japan, but is widely available throughout the country.",
+      "ingredients":[
+        "noodle",
+        "egg",
+        "cabbage",
+        "meat",
+        "octopus",
+        "cheese"
+      ],
+      "contains":[
+        "gluten",
+        "egg",
+        "meat",
+        "seafood",
+        "dairy"
+      ]
+    },{
+      "id": "jp10",
+      "name": "Onigiri",
+      "picture": "onigiri.jpg",
+      "description": "お握り. A Japanese food made from white rice formed into triangular or oval shapes and often wrapped in nori (seaweed). Traditionally, an onigiri is filled with pickled ume (umeboshi), salted salmon, katsuobushi, kombu, tarako, or any other salty or sour ingredient as a natural preservative.",
+      "ingredients":[
+        "rice",
+        "seaweed",
+        "fish"
+      ],
+      "contains":[
+        "seafood"
+      ]
+    },{
+      "id": "jp11",
+      "name": "Sake",
+      "picture": "sake.jpg",
+      "description": "清酒. An alcoholic beverage of Japanese origin that is made from fermented rice. Sake is sometimes called 'rice wine' but the brewing process is more akin to beer, converting starch to sugar for the fermentation process",
+      "ingredients":[
+        "rice"
+      ],
+      "contains":[
+        "alcoholic"
+      ]
+    },{
+      "id": "jp12",
+      "name": "Soba",
+      "picture": "soba.jpg",
+      "description": "蕎麦. A type of thin noodle made from buckwheat flour, and in Japan can refer to any thin noodle (unlike thick wheat noodles, known as udon). Soba noodles are served either chilled with a dipping sauce, or in hot broth as a noodle soup.",
+      "ingredients":[
+        "wheat"
+      ],
+      "contains":[
+        "gluten"
+      ]
+    },{
+      "id": "jp13",
+      "name": "Sukiyaki",
+      "picture": "sukiyaki.jpg",
+      "description": "すき焼き. A Japanese dish, of the soup or stew type, prepared and served in the nabemono (Japanese hot pot) style. It consists of meat (usually thinly sliced beef) which is slowly cooked or simmered at the table, alongside vegetables and other ingredients, in a shallow iron pot in a mixture of soy sauce, sugar, and mirin. Before being eaten, the ingredients are usually dipped in a small bowl of raw, beaten eggs.",
+      "ingredients":[
+        "meat",
+        "vegetables",
+        "soy-sauce",
+        "noodle"
+      ],
+      "contains":[
+        "meat"
+      ]
+    },{
+      "id": "jp14",
+      "name": "Sushi",
+      "picture": "sushi.jpg",
+      "description": "寿司. A Japanese food consisting of cooked vinegared rice (鮨飯) combined with other ingredients (ネタ), seafood, vegetables and sometimes tropical fruits. Sushi is often prepared with raw seafood, but some common varieties of sushi use cooked ingredients. Raw fish (or occasionally other meat) sliced and served without rice is called 'sashimi'.",
+      "ingredients":[
+        "rice",
+        "fish",
+        "vegetables"
+      ],
+      "contains":[
+        "seafood"
+      ]
+    },{
+      "id": "jp15",
+      "name": "Takoyaki",
+      "picture": "takoyaki.jpg",
+      "description": "たこ焼き. A ball-shaped Japanese snack made of a wheat flour-based batter and cooked in a special takoyaki pan. It is typically filled with minced or diced octopus (tako), tempura scraps (tenkasu), pickled ginger, and green onion. Takoyaki are brushed with takoyaki sauce, similar to Worcestershire sauce, and mayonnaise.",
+      "ingredients":[
+        "wheat",
+        "octopus",
+        "ginger",
+        "onion"
+      ],
+      "contains":[
+        "seafood"
+      ]
+    },{
+      "id": "jp16",
+      "name": "Tempura",
+      "picture": "tempura.jpg",
+      "description": "天ぷら. A Japanese dish of seafood or vegetables that have been battered and deep fried.",
+      "ingredients":[
+        "wheat",
+        "vegetables",
+        "shrimp"
+      ],
+      "contains":[
+        "gluten",
+        "seafood"
+      ]
+    },{
+      "id": "jp17",
+      "name": "Tonkatsu",
+      "picture": "tonkatsu.jpg",
+      "description": "豚カツ. A Japanese food which consists of a breaded, deep-fried pork cutlet. There are two main types, hire and rosu. It is often served with shredded cabbage. Tonkatsu originated in Japan in the 19th century. As well as being served as a single dish, it is also used as a sandwich filling or in combination with curry.",
+      "ingredients":[
+        "pork",
+        "wheat",
+        "cabbage"
+      ],
+      "contains":[
+        "pork",
+        "meat"
+      ]
+    },{
+      "id": "jp18",
+      "name": "Udon",
+      "picture": "udon.jpg",
+      "description": "うどん. A type of thick wheat flour noodle of Japanese cuisine. Udon is often served hot as a noodle soup in its simplest form, as kake udon, in a mildly flavoured broth called kakejiru, which is made of dashi, soy sauce (shōyu), and mirin. It is usually topped with thinly chopped scallions. Other common toppings include tempura, often prawn or kakiage (a type of mixed tempura fritter), or aburaage, a type of deep-fried tofu pockets seasoned with sugar, mirin, and soy sauce.",
+      "ingredients":[
+        "noodle",
+        "soy-sauce",
+        "onion"
+      ],
+      "contains":[
+        "gluten"
+      ]
+    },{
+      "id": "jp19",
+      "name": "Yakiniku",
+      "picture": "yakiniku.jpg",
+      "description": "焼肉. A Japanese term which, in its broadest sense, refers to grilled meat dishes. Meat has been eaten in Japan since the Jōmon period. However, the rise of Buddhism made the eating of meat tabooed, and consequently some people have theorized that meat 'disappeared' from the table from the Middle Ages to the Edo period.",
+      "ingredients":[
+        "meat"
+      ],
+      "contains":[
+        "meat"
+      ]
+    },{
+      "id": "jp20",
+      "name": "Yakitori",
+      "picture": "yakitori.jpg",
+      "description": "焼き鳥. A Japanese type of skewered chicken. The term 'yakitori' can also refer to skewered food in general. Kushiyaki (skewer grilled), is a formal term that encompasses both poultry and non-poultry items, skewered and grilled. Both yakitori and kushiyaki are used interchangeably in Japanese society.",
+      "ingredients":[
+        "chicken"
+      ],
+      "contains":[
+        "meat"
+      ]
+    }
+  ]
+}
