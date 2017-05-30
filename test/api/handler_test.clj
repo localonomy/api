@@ -3,11 +3,27 @@
             [ring.mock.request :as mock]
             [api.handler :refer :all]))
 
-(deftest test-app
-  (testing "main route"
-    (let [response (app (mock/request :get "/"))]
-      (is (= (:status response) 200))
-      (is (= (:body response) "Hello World"))))
+(deftest test-app-handler
+  (testing "api route"
+    (testing "countries"
+      (let [response (app (mock/request :get "/api/countries"))]
+        (is (= (:status response) 200))))
+    (testing "dishes"
+      (let [response (app (mock/request :get "/api/dishes"))]
+        (is (= (:status response) 200)))
+      (let [response (app (mock/request :get "/api/dishes/be"))]
+        (is (= (:status response) 200))))
+    (testing "dish"
+      (let [response (app (mock/request :get "/api/dish/be01"))]
+        (is (= (:status response) 200)))))
+
+  (testing "resources route"
+    (let [response (app (mock/request :get "/img/dish/a-gei.jpg"))]
+      (is (= (:status response) 200)))
+    (let [response (app (mock/request :get "/img/flag/be.svg"))]
+      (is (= (:status response) 200)))
+    (let [response (app (mock/request :get "/img/ingredient/agave.png"))]
+      (is (= (:status response) 200))))
 
   (testing "not-found route"
     (let [response (app (mock/request :get "/invalid"))]
