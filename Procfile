@@ -1,1 +1,1 @@
-web: java $JVM_OPTS -cp target/api-standalone.jar clojure.main -m api.handler
+web: java $JVM_OPTS -cp target/api-standalone.jar clojure.main -m api.handler/app
