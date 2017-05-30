@@ -2,6 +2,8 @@
   (:require [api.response :refer :all]
             [compojure.core :refer :all]
             [compojure.route :as route]
+            [environ.core :refer [env]]
+            [ring.adapter.jetty :as jetty]
             [ring.middleware.defaults :as middleware]
             [ring.middleware.json :as middleware.json]))
 
@@ -23,3 +25,7 @@
   (-> app-routes 
     (middleware.json/wrap-json-response)
     (middleware/wrap-defaults middleware/api-defaults)))
+
+(defn -main [& [port]]
+  (let [port (Integer. (or port (:env port) 3000))]
+    (jetty/run-jetty app {:port port :join? false})))
