@@ -35,4 +35,5 @@
     (->> dishes
       vals
       flatten
-      (filter #(= (compare (% :id) id) 0)))))
+      (filter #(= (compare (% :id) id) 0))
+      first)))
