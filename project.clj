@@ -1,7 +1,7 @@
 (defproject api "0.1.0"
   :description "API for the Localonomy app"
   :url "https://github.com/localonomy"
-  :min-lein-version "2.0.0"
+  :min-lein-version "2.7.0"
   :dependencies [[org.clojure/clojure "1.8.0"]
                  [cheshire "5.7.1"]
                  [compojure "1.5.1" :exclusions [[ring/ring-core]]]
