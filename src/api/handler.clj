@@ -27,5 +27,5 @@
     (middleware/wrap-defaults middleware/api-defaults)))
 
 (defn -main [& [port]]
-  (let [port (Integer. (or port (:env port) 3000))]
+  (let [port (Integer. (or port (env :port) 3000))]
     (jetty/run-jetty app {:port port :join? false})))
