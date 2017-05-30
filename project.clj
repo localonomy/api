@@ -9,9 +9,11 @@
                  [ring/ring-json "0.4.0"]]
   :plugins [[lein-ring "0.9.7"]]
   :ring {:handler api.handler/app}
-  :uberjar-name: "api-standalone.jar"
-  :profiles
-  {:dev {:dependencies [[javax.servlet/servlet-api "2.5"]
-                        [ring/ring-mock "0.3.0"]]}}
-  {:production {:env {:production true}}}
-  {:uberjar {:aot :all}})
+  :uberjar-name "api-standalone.jar"
+  :profiles {
+    :dev {:dependencies [[javax.servlet/servlet-api "2.5"]
+                        [ring/ring-mock "0.3.0"]]}
+    :production {:env {:production true}}
+    :uberjar {:aot :all}
+  }
+)
