@@ -32,4 +32,8 @@
       (is (contains? dish :picture))
       (is (contains? dish :description))
       (is (contains? dish :ingredients))
-      (is (contains? dish :contains)))))
+      (is (contains? dish :contains))))
+
+  (testing "get-filters"
+    (let [filters (:body (get-filters))]
+      (is (= (count filters) (count data/filters))))))

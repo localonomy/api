@@ -37,3 +37,6 @@
       flatten
       (filter #(= (compare (% :id) id) 0))
       first)))
+
+(defn get-filters []
+  (response/response filters))

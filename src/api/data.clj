@@ -38,3 +38,7 @@
 (def countries
   (json/decode-stream
     (io/reader "resources/data/countries.json") true))
+
+(def filters
+  (json/decode-stream
+    (io/reader "resources/data/filters.json") true))

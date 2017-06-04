@@ -16,6 +16,9 @@
     (testing "dish"
       (let [response (app (mock/request :get "/api/dish/be01"))]
         (is (= (:status response) 200)))))
+    (testing "filters"
+      (let [response (app (mock/request :get "/api/filters"))]
+        (is (= (:status response) 200))))
 
   (testing "resources route"
     (let [response (app (mock/request :get "/img/dish/a-gei.jpg"))]
@@ -23,6 +26,8 @@
     (let [response (app (mock/request :get "/img/flag/be.svg"))]
       (is (= (:status response) 200)))
     (let [response (app (mock/request :get "/img/ingredient/agave.png"))]
+      (is (= (:status response) 200)))
+    (let [response (app (mock/request :get "/img/filter/spicy.png"))]
       (is (= (:status response) 200))))
 
   (testing "not-found route"

@@ -19,10 +19,16 @@
     {:id "th", :code "th", :name "Thailand"}
     {:id "us", :code "us", :name "United States"}))
 
+(def mock-filters
+  '("meat", "pork", "seafood", "dairy", "egg", "insect", "gluten", "nuts", "spicy"))
+
 (deftest test-app-data
   (testing "countries"
     (is (= mock-countries countries)))
 
   (testing "dishes"
     (doseq [country mock-countries]
-      (is (contains? dishes (keyword(:id country)))))))
+      (is (contains? dishes (keyword(:id country))))))
+
+  (testing "filters"
+    (is (= mock-filters filters))))

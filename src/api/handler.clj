@@ -15,7 +15,9 @@
       (GET "/" [] (get-dishes-names))
       (GET "/:country" [country] (get-dishes country))))
     (context "/dish" [] (defroutes dish-routes
-      (GET "/:id" [id] (get-dish id)))))
+      (GET "/:id" [id] (get-dish id))))
+    (context "/filters" [] (defroutes filters-routes
+      (GET "/" [] (get-filters)))))
 
   (route/resources "/")
 
