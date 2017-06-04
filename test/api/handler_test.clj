@@ -23,7 +23,7 @@
   (testing "resources route"
     (let [response (app (mock/request :get "/img/dish/a-gei.jpg"))]
       (is (= (:status response) 200)))
-    (let [response (app (mock/request :get "/img/flag/be.svg"))]
+    (let [response (app (mock/request :get "/img/flag/be.png"))]
       (is (= (:status response) 200)))
     (let [response (app (mock/request :get "/img/ingredient/agave.png"))]
       (is (= (:status response) 200)))
