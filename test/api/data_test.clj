@@ -20,7 +20,15 @@
     {:id "us", :code "us", :name "United States"}))
 
 (def mock-filters
-  '("meat", "pork", "seafood", "dairy", "egg", "insect", "gluten", "nuts", "spicy"))
+  '("meat",
+    "pork",
+    "seafood",
+    "dairy",
+    "egg",
+    "alcohol",
+    "gluten",
+    "nuts",
+    "spicy"))
 
 (deftest test-app-data
   (testing "countries"
