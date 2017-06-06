@@ -24,7 +24,7 @@
         "lime"
       ],
       "contains":[
-        "insect"
+        ""
       ]
     },{
       "id": "mx03",
@@ -139,7 +139,8 @@
         "spicy"
       ],
       "contains":[
-        "spicy"
+        "spicy",
+        "alcohol"
       ]
     },{
       "id": "mx11",

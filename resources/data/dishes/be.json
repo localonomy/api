@@ -26,7 +26,8 @@
       ],
       "contains":[
         "meat",
-        "gluten"
+        "gluten",
+        "alcohol"
       ]
     },{
       "id": "be02",
@@ -101,7 +102,8 @@
         "beer"
       ],
       "contains":[
-        "meat"
+        "meat",
+        "alcohol"
       ]
     },{
       "id": "be04",

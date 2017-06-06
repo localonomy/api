@@ -13,7 +13,8 @@
       ],
       "contains":[
         "meat",
-        "pork"
+        "pork",
+        "alcohol"
       ]
     },{
       "id": "fr02",
@@ -28,7 +29,8 @@
         "mushroom"
       ],
       "contains":[
-        "meat"
+        "meat",
+        "alcohol"
       ]
     },{
       "id": "fr03",
