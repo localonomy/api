@@ -3,8 +3,9 @@
     {
       "id": "tw01",
       "name": "A-gei",
+      "localName": "淡水阿給",
       "picture": "a-gei.jpg",
-      "description": "淡水阿給. a speciality food originating from Tamsui District of New Taipei City and consists of a piece of fried tofu, stuffed with cooked Cellophane noodles, and sealed with surimi, which is widely sold by vendors in the district. The name a-gei was derived from aburaage (aburaage (油揚げ), age (あげ)), a fried and stewed Japanese tofu packet from which the a-gei is made.",
+      "description": "A speciality food originating from Tamsui District of New Taipei City and consists of a piece of fried tofu, stuffed with cooked Cellophane noodles, and sealed with surimi, which is widely sold by vendors in the district. The name a-gei was derived from aburaage (aburaage (油揚げ), age (あげ)), a fried and stewed Japanese tofu packet from which the a-gei is made.",
       "ingredients":[
         "tofu",
         "noodle"
@@ -15,8 +16,9 @@
     },{
       "id": "tw02",
       "name": "Baobing",
+      "localName": "刨冰",
       "picture": "baobing.jpg",
-      "description": "刨冰. A Chinese shaved ice dessert very common in China, Taiwan, Malaysia, and Vietnam. It is especially popular during the summer. Baobing was eaten in China as early as the seventh century A.D.",
+      "description": "A Chinese shaved ice dessert very common in China, Taiwan, Malaysia, and Vietnam. It is especially popular during the summer. Baobing was eaten in China as early as the seventh century A.D.",
       "ingredients":[
         "fruits",
         "milk"
@@ -27,8 +29,9 @@
     },{
       "id": "tw03",
       "name": "Ba-wan",
+      "localName": "肉圓",
       "picture": "ba-wan.jpg",
-      "description": "肉圓. A Taiwanese snack food, consisting of a 6–8 cm diameter disk-shaped translucent dough filled with a savory stuffing and served with a sweet and savory sauce. The stuffing varies widely according to different regions in Taiwan, but usually consists of a mixture of pork, bamboo shoots, and shiitake mushrooms.",
+      "description": "A Taiwanese snack food, consisting of a 6–8 cm diameter disk-shaped translucent dough filled with a savory stuffing and served with a sweet and savory sauce. The stuffing varies widely according to different regions in Taiwan, but usually consists of a mixture of pork, bamboo shoots, and shiitake mushrooms.",
       "ingredients":[
         "dough",
         "pork",
@@ -42,8 +45,9 @@
     },{
       "id": "tw04",
       "name": "Beef noodle",
+      "localName": "牛肉麵",
       "picture": "beef-noodle.jpg",
-      "description": "牛肉麵. A Chinese noodle soup made of stewed or red braised beef, beef broth, vegetables and Chinese noodles. It exists in various forms throughout East Asia and Southeast Asia. Stewed beef noodle soup was first created by the Hui people (a Chinese Muslim ethnic group) during the Tang Dynasty of China. The red braised beef noodle soup was invented by the veterans in Kaoshiung, Taiwan who fled from mainland China during the Chinese civil war.",
+      "description": "A Chinese noodle soup made of stewed or red braised beef, beef broth, vegetables and Chinese noodles. It exists in various forms throughout East Asia and Southeast Asia. Stewed beef noodle soup was first created by the Hui people (a Chinese Muslim ethnic group) during the Tang Dynasty of China. The red braised beef noodle soup was invented by the veterans in Kaoshiung, Taiwan who fled from mainland China during the Chinese civil war.",
       "ingredients":[
         "noodle",
         "meat",
@@ -55,8 +59,9 @@
     },{
       "id": "tw05",
       "name": "Bubble tea",
+      "localName": "珍珠奶茶",
       "picture": "bubble-tea.jpg",
-      "description": "珍珠奶茶. A Taiwanese tea-based drink invented in Taichung, Taiwan, during the 1980s. The term 'bubble' is an Anglicized imitative form derived from the Chinese bōbà (波霸), meaning 'large', slang for the large, chewy tapioca balls commonly added to the drink. These are (粉圓, fěnyuán), also called 'pearls' (珍珠, zhēnzhū). Most bubble tea recipes contain a tea base mixed with fruit or milk.",
+      "description": "A Taiwanese tea-based drink invented in Taichung, Taiwan, during the 1980s. The term 'bubble' is an Anglicized imitative form derived from the Chinese bōbà (波霸), meaning 'large', slang for the large, chewy tapioca balls commonly added to the drink. These are (粉圓, fěnyuán), also called 'pearls' (珍珠, zhēnzhū). Most bubble tea recipes contain a tea base mixed with fruit or milk.",
       "ingredients":[
         "cassava",
         "tea",
@@ -69,8 +74,9 @@
     },{
       "id": "tw06",
       "name": "Dan zai noodles",
+      "localName": "擔仔麵",
       "picture": "dan-zai.jpg",
-      "description": "擔仔麵. One of the best known snacks in Tainan, Taiwan. It originated in Tainan, (in southern Taiwan) about 130 years ago. While the general recipe is well known, some of the spices and the proportions of the various ingredients (shrimp flavored soup, shrimp, coriander, and garlic) are well guarded secrets by the different restaurants/stands that serve it.",
+      "description": "One of the best known snacks in Tainan, Taiwan. It originated in Tainan, (in southern Taiwan) about 130 years ago. While the general recipe is well known, some of the spices and the proportions of the various ingredients (shrimp flavored soup, shrimp, coriander, and garlic) are well guarded secrets by the different restaurants/stands that serve it.",
       "ingredients":[
         "noodle",
         "shrimp",
@@ -83,8 +89,9 @@
     },{
       "id": "tw07",
       "name": "Gua bao",
+      "localName": "割包",
       "picture": "gua-bao.jpg",
-      "description": "割包. A flat, clam-shaped steamed white bread bun with soy sauce braised fatty pork, pickled mustard vegetables, peanut powder, sugar, and cilantro inside. Known as the Taiwanese hamburger.",
+      "description": "A flat, clam-shaped steamed white bread bun with soy sauce braised fatty pork, pickled mustard vegetables, peanut powder, sugar, and cilantro inside. Known as the Taiwanese hamburger.",
       "ingredients":[
         "bread",
         "soy-sauce",
@@ -100,8 +107,9 @@
     },{
       "id": "tw08",
       "name": "Iron egg",
+      "localName": "鐵蛋",
       "picture": "iron-egg.jpg",
-      "description": "鐵蛋. A speciality egg-based dish from Taiwan. They are considered a delicacy and originated in the Tamsui District of New Taipei City. ",
+      "description": "A speciality egg-based dish from Taiwan. They are considered a delicacy and originated in the Tamsui District of New Taipei City. ",
       "ingredients":[
         "egg",
         "soy-sauce"
@@ -112,8 +120,9 @@
     },{
       "id": "tw09",
       "name": "Minced pork rice",
+      "localName": "滷肉飯",
       "picture": "minced-pork-rice.jpg",
-      "description": "滷肉飯. A Chinese-style rice dish commonly seen throughout Taiwan and southern Fujian province. The flavor may vary from one region to another, but the basic ingredients remain the same: ground pork marinated and boiled in soy sauce served on top of steamed rice.",
+      "description": "A Chinese-style rice dish commonly seen throughout Taiwan and southern Fujian province. The flavor may vary from one region to another, but the basic ingredients remain the same: ground pork marinated and boiled in soy sauce served on top of steamed rice.",
       "ingredients":[
         "rice",
         "pork",
@@ -126,8 +135,9 @@
     },{
       "id": "tw10",
       "name": "Oyster omelette",
+      "localName": "蚵仔煎",
       "picture": "oyster-omelette.jpg",
-      "description": "蚵仔煎. A Chinese dish that is widely known in Taiwan, Fujian, and many parts of Asia for its savory taste. Oyster Omelette is often sold in night markets, and has constantly been ranked by many foreigners as the top cuisine from Taiwan.",
+      "description": "A Chinese dish that is widely known in Taiwan, Fujian, and many parts of Asia for its savory taste. Oyster Omelette is often sold in night markets, and has constantly been ranked by many foreigners as the top cuisine from Taiwan.",
       "ingredients":[
         "oyster",
         "egg"
@@ -139,8 +149,9 @@
     },{
       "id": "tw20",
       "name": "Oyster vermicelli",
+      "localName": "蚵仔麵線",
       "picture": "oyster-vermicelli.jpg",
-      "description": "蚵仔麵線. A kind of noodle soup that is popular in Taiwan. Its main ingredients are oysters and misua (Taiwanese vermicelli). One of the famous places serving this is in Dihua Street, Dadaocheng, Taipei.",
+      "description": "A kind of noodle soup that is popular in Taiwan. Its main ingredients are oysters and misua (Taiwanese vermicelli). One of the famous places serving this is in Dihua Street, Dadaocheng, Taipei.",
       "ingredients":[
         "noodle",
         "oyster"
@@ -151,8 +162,9 @@
     },{
       "id": "tw11",
       "name": "Pig's blood cake",
+      "localName": "豬血糕",
       "picture": "pig-blood-cake.jpg",
-      "description": "豬血糕. A street food delicacy served on a stick from market stalls in Taiwan. It is made with pork blood, sticky rice and soy broth. It is fried or steamed and coated in peanut flour. It is eaten as a snack.",
+      "description": "A street food delicacy served on a stick from market stalls in Taiwan. It is made with pork blood, sticky rice and soy broth. It is fried or steamed and coated in peanut flour. It is eaten as a snack.",
       "ingredients":[
         "pork",
         "rice",
@@ -165,8 +177,9 @@
     },{
       "id": "tw19",
       "name": "Popcorn chicken",
+      "localName": "鹽酥雞",
       "picture": "popcorn-chicken.jpg",
-      "description": "鹽酥雞. A dish in Taiwanese cuisine and it is indispensable to the night markets in Taiwan. Although it is called fried chicken, it tastes different from western style fried chicken and is usually sold on the street.",
+      "description": "A dish in Taiwanese cuisine and it is indispensable to the night markets in Taiwan. Although it is called fried chicken, it tastes different from western style fried chicken and is usually sold on the street.",
       "ingredients":[
         "chicken",
         "herbs",
@@ -179,8 +192,9 @@
     },{
       "id": "tw12",
       "name": "Popiah",
+      "localName": "薄餅",
       "picture": "popiah.jpg",
-      "description": "薄餅. A Fujian/Chaozhou-style fresh spring roll common in Taiwan, Singapore, Malaysia and Thailand. Popiah is often eaten in the Fujian province of China (usually in Xiamen) and its neighbouring Chaoshan on the Qingming Festival.",
+      "description": "A Fujian/Chaozhou-style fresh spring roll common in Taiwan, Singapore, Malaysia and Thailand. Popiah is often eaten in the Fujian province of China (usually in Xiamen) and its neighbouring Chaoshan on the Qingming Festival.",
       "ingredients":[
         "soy-sprout",
         "bean",
@@ -200,8 +214,9 @@
     },{
       "id": "tw13",
       "name": "Pork ball",
+      "localName": "貢丸",
       "picture": "pork-ball.jpg",
-      "description": "貢丸. A Chinese meatball made from finely minced pork, starch, and sometimes cuttlefish to impart a 'bouncy' texture and added flavour. They are particularly popular in the Taiwanese city of Hsinchu, where an annual festival is dedicated to them.",
+      "description": "A Chinese meatball made from finely minced pork, starch, and sometimes cuttlefish to impart a 'bouncy' texture and added flavour. They are particularly popular in the Taiwanese city of Hsinchu, where an annual festival is dedicated to them.",
       "ingredients":[
         "pork"
       ],
@@ -212,8 +227,9 @@
     },{
       "id": "tw14",
       "name": "Scallion pancake",
+      "localName": "葱油饼",
       "picture": "scallion-pancake.jpg",
-      "description": "葱油饼. A savory, non-leavened flatbread folded with oil and minced scallions (green onions). It originates in Chinese culture. Unlike a true pancake, it is made from dough instead of batter. Variations exist on the basic method of preparation that incorporate other flavors and fillings.",
+      "description": "A savory, non-leavened flatbread folded with oil and minced scallions (green onions). It originates in Chinese culture. Unlike a true pancake, it is made from dough instead of batter. Variations exist on the basic method of preparation that incorporate other flavors and fillings.",
       "ingredients":[
         "dough",
         "onion"
@@ -224,8 +240,9 @@
     },{
       "id": "tw15",
       "name": "Spicy hot pot",
+      "localName": "麻辣鍋",
       "picture": "spicy-hot-pot.jpg",
-      "description": "麻辣鍋. It is becoming more and more popular, especially in Taipei. The soup of this hotpot includes lots of Chinese herbs and other special materials. People can cook what they want with this soup. The taste is very spicy, but this kind of hotpot can help you keep warm and feel good in the winter.",
+      "description": "It is becoming more and more popular, especially in Taipei. The soup of this hotpot includes lots of Chinese herbs and other special materials. People can cook what they want with this soup. The taste is very spicy, but this kind of hotpot can help you keep warm and feel good in the winter.",
       "ingredients":[
         "spicy",
         "meat",
@@ -240,8 +257,9 @@
     },{
       "id": "tw16",
       "name": "Stinky tofu",
+      "localName": "臭豆腐",
       "picture": "stinky-tofu.jpg",
-      "description": "臭豆腐. A form of fermented tofu that has a strong odour. It is a snack that is usually sold at night markets or roadside stands or as a side dish in lunch bars rather than in restaurants.",
+      "description": "A form of fermented tofu that has a strong odour. It is a snack that is usually sold at night markets or roadside stands or as a side dish in lunch bars rather than in restaurants.",
       "ingredients":[
         "tofu"
       ],
@@ -251,8 +269,9 @@
     },{
       "id": "tw17",
       "name": "Suncake",
+      "localName": "太陽餅",
       "picture": "suncake.jpg",
-      "description": "太陽餅. A popular Taiwanese dessert originally from the city of Taichung in Taiwan. The typical fillings consist of maltose (condensed malt sugar), and they are usually sold in special gift boxes as souvenirs for visitors. Some famous suncake pastry shops always have long lines of people waiting to buy boxed suncakes.",
+      "description": "A popular Taiwanese dessert originally from the city of Taichung in Taiwan. The typical fillings consist of maltose (condensed malt sugar), and they are usually sold in special gift boxes as souvenirs for visitors. Some famous suncake pastry shops always have long lines of people waiting to buy boxed suncakes.",
       "ingredients":[
         "sugar"
       ],
@@ -262,8 +281,9 @@
     },{
       "id": "tw18",
       "name": "Taiwanese hot dog",
+      "localName": "大腸包小腸",
       "picture": "taiwanese-hotdog.jpg",
-      "description": "大腸包小腸. A snack invented in Taiwan in the late 20th century. A segment of Taiwanese pork sausage is wrapped in a (slightly bigger and fatter) sticky rice sausage to make this delicacy, usually served chargrilled. It may be compared to a hot dog. Deluxe versions are available in night markets in Taiwan, with condiments such as pickled bokchoi, garlic, wasabi and thick soy sauce paste to complement the taste.",
+      "description": "A snack invented in Taiwan in the late 20th century. A segment of Taiwanese pork sausage is wrapped in a (slightly bigger and fatter) sticky rice sausage to make this delicacy, usually served chargrilled. It may be compared to a hot dog. Deluxe versions are available in night markets in Taiwan, with condiments such as pickled bokchoi, garlic, wasabi and thick soy sauce paste to complement the taste.",
       "ingredients":[
         "pork",
         "rice",

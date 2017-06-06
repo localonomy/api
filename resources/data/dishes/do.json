@@ -3,6 +3,7 @@
     {
       "id": "do01",
       "name": "Arepa",
+      "localName": "Arepa",
       "picture": "arepa.jpg",
       "description": "A flatbread made of ground maize dough or cooked flour prominent in the cuisine of Colombia and Venezuela. It is similar in shape to the Mexican gordita and the Salvadoran pupusa. Arepas can also be found in the Dominican Republic, where they are sweet.",
       "ingredients":[
@@ -15,6 +16,7 @@
     },{
       "id": "do02",
       "name": "Arroz con maiz",
+      "localName": "Arroz con maiz",
       "picture": "arroz-maiz.jpg",
       "description": "A staple in Dominican homes. Very simply done with annatto powered, chicken bouillon cube and Dominican sofrito called sazón.",
       "ingredients":[
@@ -27,6 +29,7 @@
     },{
       "id": "do03",
       "name": "Casabe",
+      "localName": "Casabe",
       "picture": "casabe.jpg",
       "description": "A thin flatbread made from bitter cassava root (yuca) without leavening. It was originally produced by the indigenous Arawak and Carib peoples because these roots were a common plant of the rain forests where they lived.",
       "ingredients":[
@@ -38,6 +41,7 @@
     },{
       "id": "do04",
       "name": "Chapea",
+      "localName": "Chapea",
       "picture": "chapea.jpg",
       "description": "A very popular dish from the countryside of the Dominican Republic. Cooked red beans or white beans with longaniza (Dominican sausage), rice, and green plantain are the basic ingredients, with cooked and mashed squash used as a thickener.",
       "ingredients":[
@@ -53,6 +57,7 @@
     },{
       "id": "do05",
       "name": "Chimichurri",
+      "localName": "Chimichurri",
       "picture": "chimichurri.jpg",
       "description": "A traditional snack dish (sandwich) served in the Dominican Republic. It is made from a ground pork or beef, which is sliced, grilled and served on a pan de agua (literally 'water bread') and garnished with chopped cabbage. Salsa rosa is also added.",
       "ingredients":[
@@ -69,6 +74,7 @@
     },{
       "id": "do06",
       "name": "Fritos verdes",
+      "localName": "Fritos verdes",
       "picture": "fritos-verdes.jpg",
       "description": "Fried plantain slices, and are a popular side dish in many Latin American countries.",
       "ingredients":[
@@ -81,6 +87,7 @@
     },{
       "id": "do07",
       "name": "Kipe",
+      "localName": "Kipe",
       "picture": "kipe.jpg",
       "description": "A version of the Middle Eastern kibbeh, brought by a wave of Middle Eastern immigrants that arrived in the Dominican Republic at the end of the 19th century.",
       "ingredients":[
@@ -96,6 +103,7 @@
     },{
       "id": "do08",
       "name": "La Bandera",
+      "localName": "La Bandera",
       "picture": "bandera.jpg",
       "description": "The Dominican national dish. La Bandera ('The Flag'), consists of rice, red beans and meat (beef, chicken, pork, or fish).",
       "ingredients":[
@@ -109,6 +117,7 @@
     },{
       "id": "do09",
       "name": "Locrio de pollo",
+      "localName": "Locrio de pollo",
       "picture": "locrio-pollo.jpg",
       "description": "A traditional dish of Spain and Latin America, especially in Colombia, Cuba, Costa Rica, Honduras, Nicaragua, Venezuela, Panama, Peru and Puerto Rico. In the Dominican Republic it is called locrio de pollo, and Saint Martin where it is called lokri or locreo.",
       "ingredients":[
@@ -122,6 +131,7 @@
     },{
       "id": "do10",
       "name": "Majarete",
+      "localName": "Majarete",
       "picture": "majarete.jpg",
       "description": "A typical dessert in Venezuela and the Dominican Republic. It is one of the traditional sweets of the season of Lent, although it can also be consumed throughout the year.",
       "ingredients":[
@@ -136,6 +146,7 @@
     },{
       "id": "do11",
       "name": "Mangú",
+      "localName": "Mangú",
       "picture": "mangu.jpg",
       "description": "A Dominican traditional side dish served for breakfast, lunch or dinner. In Cuba, and parts of Africa it is known as fufu. Mangú is made up of boiled green plantains.",
       "ingredients":[
@@ -147,6 +158,7 @@
     },{
       "id": "do12",
       "name": "Mofongo",
+      "localName": "Mofongo",
       "picture": "mofongo.jpg",
       "description": "A fried plantain-based Dominican comfort dish borrowed from Puerto Rican cuisine. It is typically made with fried green plantains mashed together in a pilón (which consists of a wooden mortar and pestle), with broth, garlic, olive oil, and pork cracklings or bits of bacon. It can be filled with vegetables, chicken, crab, shrimp, or beef and is often served with fried meat and chicken broth soup.",
       "ingredients":[
@@ -163,6 +175,7 @@
     },{
       "id": "do13",
       "name": "Morir soñando",
+      "localName": "Morir soñando",
       "picture": "morir-sonando.jpg",
       "description": "a popular beverage of the Dominican Republic which has made its way to other Hispanic countries, usually made of orange juice, milk, cane sugar, and chopped ice. Sometimes vanilla extract is also added, or evaporated milk is used instead of regular milk.",
       "ingredients":[
@@ -176,6 +189,7 @@
     },{
       "id": "do14",
       "name": "Moro de guandules",
+      "localName": "Moro de guandules",
       "picture": "moro-guandules.jpg",
       "description": "A traditional coconut rice and pigeon pea dish served on Christmas. Moros in Dominican Republic cuisine is very similar to Jamaican rice and peas. The rice is flavored with thyme or oregano, coconut milk, chicken bouillon, sofrito, and the option of capers.",
       "ingredients":[
@@ -189,6 +203,7 @@
     },{
       "id": "do15",
       "name": "Pasteles en hoja",
+      "localName": "Pasteles en hoja",
       "picture": "pasteles-hoja.jpg",
       "description": "Originated in the Puerto Rico tubers and/or plantains are grated and the paste is formed into a rectangular purse shape, stuffed with meat. They are then tightly wrapped in a banana leaf and boiled. Pasteles are usually served on Christmas and have become a staple in Dominican cuisine.",
       "ingredients":[
@@ -203,6 +218,7 @@
     },{
       "id": "do16",
       "name": "Queso Frito",
+      "localName": "Queso Frito",
       "picture": "queso-frito.jpg",
       "description": "A Dominican dish, often served for breakfast. It consists of a white, salty cheese with a high melting point called 'Queso de freir' (Spanish for frying cheese) or 'Queso blanco' (Spanish for white cheese).",
       "ingredients":[
@@ -214,6 +230,7 @@
     },{
       "id": "do17",
       "name": "Sancocho",
+      "localName": "Sancocho",
       "picture": "sancocho.jpg",
       "description": "A traditional soup (often considered a stew) in several Latin American cuisines derived from the Spanish dish known as cocido. Dominican 'sancocho' is considered one of the national dishes, along with 'La Bandera'. There is a variant called Sancocho cruzado or Sancocho de siete carnes which includes pollo (chicken), res (beef) and cerdo (pork) along with other meats and it is considered the ultimate sancocho dish.",
       "ingredients":[
@@ -234,6 +251,7 @@
     },{
       "id": "do18",
       "name": "Sopa de mondongo",
+      "localName": "Sopa de mondongo",
       "picture": "sopa-mondongo.jpg",
       "description": "A soup made from diced tripe (the stomach of a cow) slow-cooked with vegetables such as bell peppers, onions, carrots, cabbage, celery, tomatoes, cilantro (coriander), garlic or root vegetables.",
       "ingredients":[
@@ -251,6 +269,7 @@
     },{
       "id": "do19",
       "name": "Wasakaka",
+      "localName": "Wasakaka",
       "picture": "wasakaka.jpg",
       "description": "Mojo sauce know as waskaka in The Dominican Republic. It refers to roasted chicken marinated in sour orange and garlic with boiled cassava on the side. A play of a classic Cuban dish roasted pork in mojo with fried or steamed cassava.",
       "ingredients":[
@@ -265,6 +284,7 @@
     },{
       "id": "do20",
       "name": "Yanikeke",
+      "localName": "Yanikeke",
       "picture": "yanikeke.jpg",
       "description": "A Dominican Republic version of the jonnycake, supposedly brought over in the 19th century by the Cocolos, or English-speaking migrants (possibly of Afro-Caribbean descent). These cakes are made with flour, baking soda, and water; they are, however, typically deep-fried.",
       "ingredients":[

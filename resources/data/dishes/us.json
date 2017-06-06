@@ -3,6 +3,7 @@
     {
       "id": "us01",
       "name": "Apple pie",
+      "localName": "Apple pie",
       "picture": "apple-pie.jpg",
       "description": "A fruit pie (or tart) in which the principal filling ingredient is apple. It is sometimes served with whipped cream or ice cream on top, or alongside cheddar cheese.",
       "ingredients":[
@@ -16,6 +17,7 @@
     },{
       "id": "us02",
       "name": "Brunswick stew",
+      "localName": "Brunswick stew",
       "picture": "brunswick-stew.jpg",
       "description": "A traditional dish, popular in the American South. The origin of the dish is uncertain. Two places compete for originating it, in addition to claims to a German origin.",
       "ingredients":[
@@ -32,6 +34,7 @@
     },{
       "id": "us03",
       "name": "Chicken nugget",
+      "localName": "Chicken nugget",
       "picture": "chicken-nugget.jpg",
       "description": "A chicken product made from either meat slurry or chicken breasts cut to shape, breaded or battered, then deep-fried or baked. Fast food restaurants typically fry their nuggets in vegetable oil, such as coconut oil. The chicken nugget was invented in the 1950s by Robert C. Baker, a food science professor at Cornell University, and published as unpatented academic work.",
       "ingredients":[
@@ -46,6 +49,7 @@
     },{
       "id": "us04",
       "name": "Chili con carne",
+      "localName": "Chili con carne",
       "picture": "chili-carne.jpg",
       "description": "A spicy stew containing chili peppers, meat (usually beef), and often tomatoes and beans. Other seasonings may include garlic, onions, and cumin.",
       "ingredients":[
@@ -60,6 +64,7 @@
     },{
       "id": "us05",
       "name": "Clam chowder",
+      "localName": "Clam chowder",
       "picture": "clam-chowder.jpg",
       "description": "Clam chowder is any of several chowders containing clams and broth. Along with the clams, diced potato is common, as are onions, which are occasionally sautéed in the drippings from salt pork or bacon. Celery is frequently used.",
       "ingredients":[
@@ -73,6 +78,7 @@
     },{
       "id": "us06",
       "name": "Cowboy beans",
+      "localName": "Cowboy beans",
       "picture": "cowboy-beans.jpg",
       "description": "A bean dish popular in the United States. The dish consists of beans and ground beef in a sweet and tangy sauce. The flavor is similar to baked beans but with a southwestern twist.",
       "ingredients":[
@@ -85,6 +91,7 @@
     },{
       "id": "us07",
       "name": "Doughnut",
+      "localName": "Doughnut",
       "picture": "doughnut.jpg",
       "description": "A type of fried dough confectionery or dessert food. The doughnut is popular in many countries and prepared in various forms as a sweet snack that can be homemade or purchased in bakeries, supermarkets, food stalls, and franchised specialty outlets. They are usually deep-fried from a flour dough, and typically either ring-shaped or without a hole and often filled.",
       "ingredients":[
@@ -97,6 +104,7 @@
     },{
       "id": "us08",
       "name": "Fried chicken",
+      "localName": "Fried chicken",
       "picture": "fried-chicken.jpg",
       "description": "A dish consisting of chicken pieces usually from broiler chickens which have been floured or battered and then pan-fried, deep fried, or pressure fried. The breading adds a crisp coating or crust to the exterior.",
       "ingredients":[
@@ -110,6 +118,7 @@
     },{
       "id": "us09",
       "name": "Gumbo",
+      "localName": "Gumbo",
       "picture": "gumbo.jpg",
       "description": "A dish that originated in southern Louisiana from the Louisiana Creole people during the 18th century. It typically consists primarily of a strongly flavored stock, okra, meat or shellfish, a thickener, and seasoning vegetables, which can include celery, bell peppers and onions.",
       "ingredients":[
@@ -128,6 +137,7 @@
     },{
       "id": "us10",
       "name": "Hamburger",
+      "localName": "Hamburger",
       "picture": "hamburger.jpg",
       "description": "A sandwich consisting of one or more cooked patties of ground meat, usually beef, placed inside a sliced bun. Hamburgers are often served with lettuce, bacon, tomato, onion, pickles, cheese and condiments such as mustard, mayonnaise, ketchup, relish, and green chile.",
       "ingredients":[
@@ -144,6 +154,7 @@
     },{
       "id": "us11",
       "name": "Hot dog",
+      "localName": "Hot dog",
       "picture": "hotdog.jpg",
       "description": "A cooked sausage, traditionally grilled or steamed and served in a sliced bun as a sandwich. Typical hot dog garnishes include mustard, ketchup, onions, mayonnaise, relish, cheese, chili, and sauerkraut.",
       "ingredients":[
@@ -158,6 +169,7 @@
     },{
       "id": "us12",
       "name": "Macaroni and cheese",
+      "localName": "Macaroni and cheese",
       "picture": "mac-cheese.jpg",
       "description": "A dish consisting of cooked macaroni pasta and cheese, most commonly Cheddar cheese, though it can also incorporate other ingredients, such as bread crumbs and flavorful enhancements.",
       "ingredients":[
@@ -173,6 +185,7 @@
     },{
       "id": "us13",
       "name": "Mashed potato",
+      "localName": "Mashed potato",
       "picture": "mashed-potato.jpg",
       "description": "A dish prepared by mashing boiled potatoes. Recipes started appearing no later than 1747 with an entry in The Art of Cookery by Hannah Glasse. Dehydrated and frozen mashed potatoes are available in many places.",
       "ingredients":[
@@ -186,6 +199,7 @@
     },{
       "id": "us14",
       "name": "Mission burrito",
+      "localName": "Mission burrito",
       "picture": "mission-burrito.jpg",
       "description": "A type of burrito that first became popular during the 1960s in the Mission District of San Francisco, California. It is distinguished from other burritos by its large size and inclusion of extra rice and other ingredients.",
       "ingredients":[
@@ -204,6 +218,7 @@
     },{
       "id": "us15",
       "name": "New York pizza",
+      "localName": "New York pizza",
       "picture": "ny-pizza.jpg",
       "description": "New York-style pizza originated in New York City in the early 1900s, and in 1905, the first pizza establishment in the United States was opened in New York's Little Italy. It is known for its large, wide, thin, and floppy yet tough shape.",
       "ingredients":[
@@ -218,6 +233,7 @@
     },{
       "id": "us16",
       "name": "Pasta salad",
+      "localName": "Pasta salad",
       "picture": "pasta-salad.jpg",
       "description": "A dish prepared with one or more types of pasta, usually chilled, and most often tossed in a vinegar, oil or mayonnaise-based dressing. It is typically served as an appetizer or a main course.",
       "ingredients":[
@@ -233,6 +249,7 @@
     },{
       "id": "us17",
       "name": "Peanut butter",
+      "localName": "Peanut butter",
       "picture": "peanut-butter.jpg",
       "description": "A food paste made primarily from ground dry roasted peanut (actually a legume and not a nut). It is mainly used as a sandwich spread, sometimes in combination with other spreads such as jam, chocolate (in various forms), vegetables or cheese.",
       "ingredients":[
@@ -244,6 +261,7 @@
     },{
       "id": "us18",
       "name": "Potato salad",
+      "localName": "Potato salad",
       "picture": "potato-salad.jpg",
       "description": "A dish made from boiled potatoes that comes in many versions in different regions of the world. Though called a salad, it is generally a side dish, as it usually accompanies the main course.",
       "ingredients":[
@@ -259,6 +277,7 @@
     },{
       "id": "us19",
       "name": "Sloppy joe",
+      "localName": "Sloppy joe",
       "picture": "sloppy-joe.jpg",
       "description": "A sandwich, originating in the United States, consisting of ground beef, onions, tomato sauce or ketchup, Worcestershire sauce, and other seasonings, served on a hamburger bun.",
       "ingredients":[
@@ -274,6 +293,7 @@
     },{
       "id": "us20",
       "name": "Surf and turf",
+      "localName": "Surf and turf",
       "picture": "surf-turf.jpg",
       "description": "A main course in American cuisine which combines seafood and meat. It is particularly common in British/Irish-style pubs in North America and North American steakhouses. The 'surf' part refers to lobster, prawns, or shrimp, which may be grilled or breaded and fried. The 'turf' part refers to a steak.",
       "ingredients":[

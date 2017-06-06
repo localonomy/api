@@ -3,6 +3,7 @@
     {
       "id": "fr01",
       "name": "Andouillette",
+      "localName": "Andouillette",
       "picture": "andouillette.jpg",
       "description": "A coarse-grained sausage made with pork (or occasionally veal), intestines or chitterlings, pepper, wine, onions, and seasonings.",
       "ingredients":[
@@ -19,6 +20,7 @@
     },{
       "id": "fr02",
       "name": "Boeuf bourguignon",
+      "localName": "Boeuf bourguignon",
       "picture": "boeuf-bourguignon.jpg",
       "description": "A stew prepared with beef braised in red wine, traditionally red Burgundy, and beef broth, generally flavoured with garlic, onions and a bouquet garni, with pearl onions and mushrooms added towards the end of cooking.",
       "ingredients":[
@@ -35,6 +37,7 @@
     },{
       "id": "fr03",
       "name": "Camembert",
+      "localName": "Camembert",
       "picture": "camembert.jpg",
       "description": "A soft, creamy, surface-ripened cow's milk cheese. It was first made in the late 18th century at Camembert, Normandy in northern France.",
       "ingredients":[
@@ -46,6 +49,7 @@
     },{
       "id": "fr04",
       "name": "Cassoulet",
+      "localName": "Cassoulet",
       "picture": "cassoulet.jpg",
       "description": "A rich, slow-cooked casserole originating in the south of France, containing meat (typically pork sausages, goose, duck and sometimes mutton), pork skin (couennes) and white beans (haricots blancs).",
       "ingredients":[
@@ -60,6 +64,7 @@
     },{
       "id": "fr05",
       "name": "Confit de canard",
+      "localName": "Confit de canard",
       "picture": "confit-canard.jpg",
       "description": "A French dish made with the leg of the duck. The confit is prepared in a centuries-old process of preservation that consists of salt curing a piece of meat (generally goose, duck, or pork) and then cooking it in its own fat.",
       "ingredients":[
@@ -73,6 +78,7 @@
     },{
       "id": "fr06",
       "name": "Crêpe",
+      "localName": "Crêpe",
       "picture": "crepe.jpg",
       "description": "A type of very thin pancake, usually made from wheat flour (crêpes de Froment) or buckwheat flour (galettes).",
       "ingredients":[
@@ -88,6 +94,7 @@
     },{
       "id": "fr07",
       "name": "Croque-monsieur",
+      "localName": "Croque-monsieur",
       "picture": "croque-monsieur.jpg",
       "description": "A grilled ham and cheese sandwich. It originated in French cafés and bars as a quick snack. Typically, Emmental or Gruyère cheese is used.",
       "ingredients":[
@@ -104,6 +111,7 @@
     },{
       "id": "fr08",
       "name": "Escargot",
+      "localName": "Escargot",
       "picture": "escargot.jpg",
       "description": "A dish of cooked land snails, usually served as an appetizer in France and in French restaurants.",
       "ingredients":[
@@ -116,6 +124,7 @@
     },{
       "id": "fr09",
       "name": "Flammekueche",
+      "localName": "Flammekueche",
       "picture": "flammekueche.jpg",
       "description": "An Alsatian dish composed of bread dough rolled out very thin in the shape of a rectangle (traditionally) or circle, which is covered with fromage blanc or crème fraîche, thinly sliced onions and lardons. It is one of the most famous specialties of the region.",
       "ingredients":[
@@ -133,6 +142,7 @@
     },{
       "id": "fr10",
       "name": "Foie gras",
+      "localName": "Foie gras",
       "picture": "foie-gras.jpg",
       "description": "A food product made of the liver of a duck or goose that has been specially fattened. By French law,[1] foie gras is defined as the liver of a duck or goose fattened by force-feeding corn with a gavage.",
       "ingredients":[
@@ -144,6 +154,7 @@
     },{
       "id": "fr20",
       "name": "Fondue savoyarde",
+      "localName": "Fondue savoyarde",
       "picture": "fondue-savoyarde.jpg",
       "description": "A French dish of melted cheese served in a communal pot (caquelon) over a portable stove (réchaud), and eaten by dipping long-stemmed forks with bread into the cheese.",
       "ingredients":[
@@ -160,6 +171,7 @@
     },{
       "id": "fr11",
       "name": "Macaron",
+      "localName": "Macaron",
       "picture": "macaron.jpg",
       "description": "A sweet meringue-based confection made with egg white, icing sugar, granulated sugar, almond powder or ground almond, and food colouring. The macaron is commonly filled with ganache, buttercream or jam filling sandwiched between two biscuits. ",
       "ingredients":[
@@ -175,6 +187,7 @@
     },{
       "id": "fr12",
       "name": "Mille-feuille",
+      "localName": "Mille-feuille",
       "picture": "mille-feuille.jpg",
       "description": "The mille-feuille, vanilla slice, custard slice, also known as the Napoleon, is a French pastry of which the exact origin is unknown. Traditionally, a mille-feuille is made up of three layers of puff pastry (pâte feuilletée), alternating with two layers of pastry cream (crème pâtissière), but sometimes whipped cream or jam are substituted.",
       "ingredients":[
@@ -187,6 +200,7 @@
     },{
       "id": "fr19",
       "name": "Pain au chocolat",
+      "localName": "Pain au chocolat",
       "picture": "pain-chocolat.jpg",
       "description": "A viennoiserie sweet roll consisting of a cuboid-shaped piece of yeast-leavened laminated dough, similar in texture to a puff pastry, with one or two pieces of dark chocolate in the centre.",
       "ingredients":[
@@ -200,6 +214,7 @@
     },{
       "id": "fr13",
       "name": "Quiche",
+      "localName": "Quiche",
       "picture": "quiche.jpg",
       "description": "A savoury, open-faced pastry crust with a filling of savoury custard with cheese, meat, seafood, and/or vegetables.",
       "ingredients":[
@@ -216,6 +231,7 @@
     },{
       "id": "fr14",
       "name": "Ratatouille",
+      "localName": "Ratatouille",
       "picture": "ratatouille.jpg",
       "description": "A traditional French Provençal stewed vegetable dish, originating in Nice. The full name of the dish is ratatouille niçoise.",
       "ingredients":[
@@ -229,6 +245,7 @@
     },{
       "id": "fr15",
       "name": "Salade niçoise",
+      "localName": "Salade niçoise",
       "picture": "salade-nicoise.jpg",
       "description": "A composed salad of tomatoes, tuna, hard-boiled eggs, Niçoise olives, and anchovies, dressed with a vinaigrette.",
       "ingredients":[
@@ -244,6 +261,7 @@
     },{
       "id": "fr16",
       "name": "Soupe à l'oignon",
+      "localName": "Soupe à l'oignon",
       "picture": "soupe-oignon.jpg",
       "description": "A type of soup usually based on meat stock, and often served gratinéed with croutons and cheese on top.",
       "ingredients":[
@@ -259,6 +277,7 @@
     },{
       "id": "fr17",
       "name": "Tartiflette",
+      "localName": "Tartiflette",
       "picture": "tartiflette.jpg",
       "description": "A French dish from the Savoie and Haute Savoie region of France. It is made with potatoes, reblochon cheese, lardons and onions.",
       "ingredients":[
@@ -275,6 +294,7 @@
     },{
       "id": "fr18",
       "name": "Tapenade",
+      "localName": "Tapenade",
       "picture": "tapenade.jpg",
       "description": "A Provençal dish consisting of puréed or finely chopped olives, capers, anchovies and olive oil.",
       "ingredients":[

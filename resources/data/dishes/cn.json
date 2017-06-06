@@ -3,8 +3,9 @@
     {
       "id": "cn01",
       "name": "Beef chow fun",
+      "localName": "干炒牛河",
       "picture": "beef-chow-fun.jpg",
-      "description": "干炒牛河. A staple Cantonese dish, made from stir-frying beef, hefen (wide rice noodles) and bean sprouts and is commonly found in yum cha restaurants in Guangdong, Hong Kong, and even overseas, as well as in cha chaan tengs.",
+      "description": "A staple Cantonese dish, made from stir-frying beef, hefen (wide rice noodles) and bean sprouts and is commonly found in yum cha restaurants in Guangdong, Hong Kong, and even overseas, as well as in cha chaan tengs.",
       "ingredients":[
         "meat",
         "soy-sprout",
@@ -18,8 +19,9 @@
     },{
       "id": "cn02",
       "name": "Beggar's Chicken",
+      "localName": "叫化雞",
       "picture": "beggar-chicken.jpg",
-      "description": "叫化雞. A dish from Changshu, a city in China's Jiangsu province that is famous for its delicious taste. Beggar's Chicken is called 'jiaohuaji' in the Changshu dialect. The chicken is stuffed, wrapped in clay, and roasted following a traditional Eastern Chinese recipe.",
+      "description": "A dish from Changshu, a city in China's Jiangsu province that is famous for its delicious taste. Beggar's Chicken is called 'jiaohuaji' in the Changshu dialect. The chicken is stuffed, wrapped in clay, and roasted following a traditional Eastern Chinese recipe.",
       "ingredients":[
         "chicken"
       ],
@@ -29,8 +31,9 @@
     },{
       "id": "cn03",
       "name": "Buddha's delight",
+      "localName": "罗汉菜",
       "picture": "buddha-delight.jpg",
-      "description": "罗汉菜. A vegetarian dish well known in Chinese and Buddhist cuisine. The dish is traditionally enjoyed by Buddhist monks who are vegetarians, but it has also grown in popularity throughout the world as a common dish available as a vegetarian option in Chinese restaurants.",
+      "description": "A vegetarian dish well known in Chinese and Buddhist cuisine. The dish is traditionally enjoyed by Buddhist monks who are vegetarians, but it has also grown in popularity throughout the world as a common dish available as a vegetarian option in Chinese restaurants.",
       "ingredients":[
         "vegetables",
         "soy-sauce"
@@ -41,8 +44,9 @@
     },{
       "id": "cn04",
       "name": "Century egg",
+      "localName": "皮蛋",
       "picture": "century-egg.jpg",
-      "description": "皮蛋. A Chinese cuisine ingredient made by preserving duck, chicken or quail eggs in a mixture of clay, ash, salt, quicklime, and rice hulls for several weeks to several months, depending on the method of processing.",
+      "description": "A Chinese cuisine ingredient made by preserving duck, chicken or quail eggs in a mixture of clay, ash, salt, quicklime, and rice hulls for several weeks to several months, depending on the method of processing.",
       "ingredients":[
         "egg"
       ],
@@ -52,8 +56,9 @@
     },{
       "id": "cn05",
       "name": "Char siu",
+      "localName": "叉燒",
       "picture": "char-siu.jpg",
-      "description": "叉燒. A popular way to flavor and prepare barbecued pork in Cantonese cuisine. It is classified as a type of siu mei (燒味), Cantonese roasted meat.",
+      "description": "A popular way to flavor and prepare barbecued pork in Cantonese cuisine. It is classified as a type of siu mei (燒味), Cantonese roasted meat.",
       "ingredients":[
         "pork",
         "honey",
@@ -68,8 +73,9 @@
     },{
       "id": "cn06",
       "name": "Dandan noodles",
+      "localName": "担担面",
       "picture": "dandan.jpg",
-      "description": "担担面. A noodle dish originating from Chinese Sichuan cuisine. It consists of a spicy sauce containing preserved vegetables (often including zha cai (榨菜), lower enlarged mustard stems, or ya cai (芽菜), upper mustard stems), chili oil, Sichuan pepper, minced pork, and scallions served over noodles.",
+      "description": "A noodle dish originating from Chinese Sichuan cuisine. It consists of a spicy sauce containing preserved vegetables (often including zha cai (榨菜), lower enlarged mustard stems, or ya cai (芽菜), upper mustard stems), chili oil, Sichuan pepper, minced pork, and scallions served over noodles.",
       "ingredients":[
         "noodle",
         "pork",
@@ -84,8 +90,9 @@
     },{
       "id": "cn07",
       "name": "Dim sum",
+      "localName": "点心",
       "picture": "dim-sum.jpg",
-      "description": "点心. A style of Cantonese food prepared as small bite-sized or individual portions of food traditionally served in small steamer baskets or on small plates.",
+      "description": "A style of Cantonese food prepared as small bite-sized or individual portions of food traditionally served in small steamer baskets or on small plates.",
       "ingredients":[
         "wheat",
         "cassava",
@@ -102,8 +109,9 @@
     },{
       "id": "cn08",
       "name": "Dongpo pork",
+      "localName": "东坡肉",
       "picture": "dongpo-pork.jpg",
-      "description": "东坡肉. A Hangzhou dish which is made by pan-frying and then red cooking pork belly. The pork is cut to around 2 inches square in dimensions, consisting of half fat and half lean meat. The mouth feel is oily but not greasy, with the fragrance of wine. The dish is named after the famed Song Dynasty poet Su Dongpo.",
+      "description": "A Hangzhou dish which is made by pan-frying and then red cooking pork belly. The pork is cut to around 2 inches square in dimensions, consisting of half fat and half lean meat. The mouth feel is oily but not greasy, with the fragrance of wine. The dish is named after the famed Song Dynasty poet Su Dongpo.",
       "ingredients":[
         "pork",
         "soy-sauce",
@@ -116,8 +124,9 @@
     },{
       "id": "cn09",
       "name": "Duck's head",
+      "localName": "鸭头",
       "picture": "duck-head.jpg",
-      "description": "鸭头. A Chinese snack made by adding spices and herbs to a stir-fried head of duck. It is a popular dish in many parts of China, including Wuhan and Shanghai. One duck's head store claims that the snack 'helps your own brain power'. It has a crispy taste and is written to be a healthy food with no known health drawbacks.",
+      "description": "A Chinese snack made by adding spices and herbs to a stir-fried head of duck. It is a popular dish in many parts of China, including Wuhan and Shanghai. One duck's head store claims that the snack 'helps your own brain power'. It has a crispy taste and is written to be a healthy food with no known health drawbacks.",
       "ingredients":[
         "duck",
         "herbs"
@@ -128,8 +137,9 @@
     },{
       "id": "cn10",
       "name": "Fried rice",
+      "localName": "炒饭",
       "picture": "fried-rice.jpg",
-      "description": "炒饭. A dish of steamed rice stir-fried in a wok, often mixed with other ingredients, such as eggs, vegetables, and meat. It is sometimes served as the penultimate dish in Chinese banquets, just before dessert. As a homemade dish, fried rice is typically made with leftover ingredients (including vegetables, meat) from other dishes, leading to countless variations.",
+      "description": "A dish of steamed rice stir-fried in a wok, often mixed with other ingredients, such as eggs, vegetables, and meat. It is sometimes served as the penultimate dish in Chinese banquets, just before dessert. As a homemade dish, fried rice is typically made with leftover ingredients (including vegetables, meat) from other dishes, leading to countless variations.",
       "ingredients":[
         "rice",
         "vegetables",
@@ -141,8 +151,9 @@
     },{
       "id": "cn11",
       "name": "Ha gow",
+      "localName": "虾饺",
       "picture": "ha-gow.jpg",
-      "description": "虾饺. A traditional Chinese dumpling served in dim sum. The dumpling is sometimes called a shrimp bonnet for its pleated shape.",
+      "description": "A traditional Chinese dumpling served in dim sum. The dumpling is sometimes called a shrimp bonnet for its pleated shape.",
       "ingredients":[
         "wheat",
         "cassava",
@@ -156,8 +167,9 @@
     },{
       "id": "cn12",
       "name": "Kung Pao chicken",
+      "localName": "宫保雞丁",
       "picture": "kung-pao.jpg",
-      "description": "宫保雞丁. A spicy stir-fry dish made with chicken, peanuts, vegetables, and chili peppers. The classic dish in Szechuan cuisine originated in the Sichuan Province of south-western China and includes Sichuan peppercorns.",
+      "description": "A spicy stir-fry dish made with chicken, peanuts, vegetables, and chili peppers. The classic dish in Szechuan cuisine originated in the Sichuan Province of south-western China and includes Sichuan peppercorns.",
       "ingredients":[
         "chicken",
         "vegetables",
@@ -171,8 +183,9 @@
     },{
       "id": "cn13",
       "name": "Mantou",
+      "localName": "馒头",
       "picture": "mantou.jpg",
-      "description": "馒头. A type of steamed bread or bun originating in China. They are typically eaten as a staple in northern parts of China where wheat, rather than rice, is grown. They are made with milled wheat flour, water and leavening agents.",
+      "description": "A type of steamed bread or bun originating in China. They are typically eaten as a staple in northern parts of China where wheat, rather than rice, is grown. They are made with milled wheat flour, water and leavening agents.",
       "ingredients":[
         "flour"
       ],
@@ -182,8 +195,9 @@
     },{
       "id": "cn14",
       "name": "Mapo doufu",
+      "localName": "麻婆豆腐",
       "picture": "map-doufu.jpg",
-      "description": "麻婆豆腐. A popular Chinese dish from China's Sichuan province. It is a combination of tofu set in a spicy chili- and bean-based sauce, typically a thin, oily, and bright red suspension, and often cooked with douchi (fermented black beans) and minced meat, usually pork or beef. Variations exist with other ingredients such as water chestnuts, onions, other vegetables, or wood ear fungus.",
+      "description": "A popular Chinese dish from China's Sichuan province. It is a combination of tofu set in a spicy chili- and bean-based sauce, typically a thin, oily, and bright red suspension, and often cooked with douchi (fermented black beans) and minced meat, usually pork or beef. Variations exist with other ingredients such as water chestnuts, onions, other vegetables, or wood ear fungus.",
       "ingredients":[
         "tofu",
         "spicy",
@@ -198,8 +212,9 @@
     },{
       "id": "cn15",
       "name": "Mooncake",
+      "localName": "月饼",
       "picture": "mooncake.jpg",
-      "description": "月饼. A Chinese bakery product traditionally eaten during the Mid-Autumn Festival (Zhongqiujie). The festival is for lunar worship and moon watching, when mooncakes are regarded as an indispensable delicacy. Mooncakes are offered between friends or on family gatherings while celebrating the festival. The Mid-Autumn Festival is one of the four most important Chinese festivals.",
+      "description": "A Chinese bakery product traditionally eaten during the Mid-Autumn Festival (Zhongqiujie). The festival is for lunar worship and moon watching, when mooncakes are regarded as an indispensable delicacy. Mooncakes are offered between friends or on family gatherings while celebrating the festival. The Mid-Autumn Festival is one of the four most important Chinese festivals.",
       "ingredients":[
         "olive-oil",
         "bean"
@@ -210,8 +225,9 @@
     },{
       "id": "cn16",
       "name": "Peking duck",
+      "localName": "北京烤鸭",
       "picture": "peking-duck.jpg",
-      "description": "北京烤鸭. A famous duck dish from Beijing that has been prepared since the imperial era. The meat is prized for its thin, crisp skin, with authentic versions of the dish serving mostly the skin and little meat, sliced in front of the diners by the cook.",
+      "description": "A famous duck dish from Beijing that has been prepared since the imperial era. The meat is prized for its thin, crisp skin, with authentic versions of the dish serving mostly the skin and little meat, sliced in front of the diners by the cook.",
       "ingredients":[
         "duck"
       ],
@@ -221,8 +237,9 @@
     },{
       "id": "cn17",
       "name": "Sweet and sour pork",
+      "localName": "咕噜肉",
       "picture": "sweet-sour-pork.jpg",
-      "description": "咕噜肉. Cantonese sweet and sour sauce is the direct ancestor of sauce of the same name in the West, and originally developed for sweet and sour pork.",
+      "description": "Cantonese sweet and sour sauce is the direct ancestor of sauce of the same name in the West, and originally developed for sweet and sour pork.",
       "ingredients":[
         "pork",
         "soy-sauce",
@@ -235,8 +252,9 @@
     },{
       "id": "cn18",
       "name": "Xiaolongbao",
+      "localName": "小笼包",
       "picture": "xiaolongbao.jpg",
-      "description": "小笼包. A type of steamed bun (baozi) from the Jiangnan region of China, especially associated with Shanghai and Wuxi. It is traditionally prepared in xiaolong, small bamboo steaming baskets, which give them their name. Xiaolongbao are often referred to as a kind of 'dumpling'",
+      "description": "A type of steamed bun (baozi) from the Jiangnan region of China, especially associated with Shanghai and Wuxi. It is traditionally prepared in xiaolong, small bamboo steaming baskets, which give them their name. Xiaolongbao are often referred to as a kind of 'dumpling'",
       "ingredients":[
         "dough",
         "pork"
@@ -249,8 +267,9 @@
     },{
       "id": "cn19",
       "name": "Yeung Chow",
+      "localName": "扬州炒饭",
       "picture": "yeung-chow.jpg",
-      "description": "扬州炒饭. A popular Chinese-style wok fried rice dish in many Chinese restaurants in China, the Americas, Australia, United Kingdom, Vietnam, Indonesia and the Philippines. The ingredients vary, but there are staple items like rice (preferably day old because freshly cooked rice is too sticky), shrimp, scallions, fresh vegetables such as peas, corn, bamboo shoots, and eggs",
+      "description": "A popular Chinese-style wok fried rice dish in many Chinese restaurants in China, the Americas, Australia, United Kingdom, Vietnam, Indonesia and the Philippines. The ingredients vary, but there are staple items like rice (preferably day old because freshly cooked rice is too sticky), shrimp, scallions, fresh vegetables such as peas, corn, bamboo shoots, and eggs",
       "ingredients":[
         "rice",
         "shrimp",
@@ -266,8 +285,9 @@
     },{
       "id": "cn20",
       "name": "Zhajiangmian",
+      "localName": "炸酱面",
       "picture": "zhajiang.jpg",
-      "description": "炸酱面. A Chinese dish consisting of thick wheat noodles topped with a mixture of ground pork stir-fried with zhajiang (醡醬), which is salty fermented soybean paste.",
+      "description": "A Chinese dish consisting of thick wheat noodles topped with a mixture of ground pork stir-fried with zhajiang (醡醬), which is salty fermented soybean paste.",
       "ingredients":[
         "noodle",
         "meat"

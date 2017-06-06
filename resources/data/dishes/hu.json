@@ -3,6 +3,7 @@
     {
       "id": "hu01",
       "name": "Dobos torta",
+      "localName": "Dobos torta",
       "picture": "dobos-torta.jpg",
       "description": "A Hungarian sponge cake layered with chocolate buttercream and topped with caramel. The five-layer pastry is named after its inventor, Hungarian confectioner József C. Dobos, who aimed to create a cake that would last longer than other pastries in an age when cooling techniques were limited.",
       "ingredients":[
@@ -16,6 +17,7 @@
     },{
       "id": "hu02",
       "name": "Fatányéros",
+      "localName": "Fatányéros",
       "picture": "fatanyeros.jpg",
       "description": "A famous traditional Hungarian mixed meat barbecue dish, (or pecsenye in Hungarian) originating from Transylvania.",
       "ingredients":[
@@ -30,6 +32,7 @@
     },{
       "id": "hu03",
       "name": "Főzelék",
+      "localName": "Főzelék",
       "picture": "fozelek.jpg",
       "description": "A type of thick Hungarian vegetable stew. Főzelék is a special category in Hungarian cuisine, not quite like a soup, and thinner than a stew. It is simply cooked, typically by simmering, not mashed. It is usually not cooked with meat, but bacon and spicy sausage may be added for flavor.",
       "ingredients":[
@@ -43,7 +46,8 @@
     },{
       "id": "hu04",
       "name": "Gulyás",
-      "picture": "gulyás.jpg",
+      "localName": "Gulyás",
+      "picture": "gulyas.jpg",
       "description": "A soup or stew of meat, and vegetables, seasoned with paprika and other spices. Originating from the medieval Kingdom of Hungary, goulash is also a popular meal in Central Europe, Scandinavia and Southern Europe. Its origin traces back to the 9th century.",
       "ingredients":[
         "meat",
@@ -57,6 +61,7 @@
     },{
       "id": "hu05",
       "name": "Gulyásleves",
+      "localName": "Gulyásleves",
       "picture": "gulyasleves.jpg",
       "description": "A Hungarian soup, made of beef, vegetables, ground paprika and other spices. It originates from a dish cooked by the cattlemen (gulyás also means herdsman) who tended their herds in the Great Hungarian Plain, known as the Alföld or Puszta in Hungarian.",
       "ingredients":[
@@ -71,6 +76,7 @@
     },{
       "id": "hu06",
       "name": "Halászlé",
+      "localName": "Halászlé",
       "picture": "halaszle.jpg",
       "description": "A hot, spicy paprika-based river fish soup, originating as a dish of Hungarian cuisine, a bright red hot soup prepared with generous amounts of hot paprika and carp or mixed river fish, characteristic for the cuisines of the Pannonian Plain, particularly prepared in the Danube and Tisza river regions.",
       "ingredients":[
@@ -88,6 +94,7 @@
     },{
       "id": "hu07",
       "name": "Hortobágyi",
+      "localName": "Hortobágyi",
       "picture": "Hortobagyi-palacsinta.jpg",
       "description": "A savoury Hungarian pancake, filled with meat (usually veal). The meat is prepared as a stew; minced meat is fried with onions and spices like the pörkölt or the paprikás dish, using, veal, veal with mushrooms, chicken or Hungarian sausage. The pancakes are filled with the minced meat, tucking in the ends, and are baked in the oven with a pepper and sour cream, then topped with fresh parsley.",
       "ingredients":[
@@ -103,6 +110,7 @@
     },{
       "id": "hu20",
       "name": "Húsleves",
+      "localName": "Húsleves",
       "picture": "husleves.jpg",
       "description": "Hungarian chicken soup is a clear soup, a consommé, called Újházi chicken soup. A consommé with entire pieces of chicken, chicken liver and heart, with chunky vegetables and spices like whole black peppercorn, bay leaves, salt and ground black pepper. The vegetables boiled along with the pieces of chicken are usually carrots, celeriac, parsley root and parsnip.",
       "ingredients":[
@@ -117,6 +125,7 @@
     },{
       "id": "hu08",
       "name": "Kolbász",
+      "localName": "Kolbász",
       "picture": "kolbasz.jpg",
       "description": "A cooked Hungarian sausage, usually smoked. The best known and most popular versions are Gyulai sausage, Csabai sausage, Csemege kolbász, Cserkész kolbász, Debreceni kolbász and Lecsókolbász.",
       "ingredients":[
@@ -129,6 +138,7 @@
     },{
       "id": "hu09",
       "name": "Lecsó",
+      "localName": "Lecsó",
       "picture": "lecso.jpg",
       "description": "A Hungarian thick vegetable ragout or stew which features green and/or red peppers and tomato, onion, lard, salt, sugar and ground sweet and/or hot paprika as a base recipe. The onions and peppers are usually sauteed in lard, bacon fat or sunflower oil. Garlic can also be a traditional ingredient.",
       "ingredients":[
@@ -144,6 +154,7 @@
     },{
       "id": "hu10",
       "name": "Meggyleves",
+      "localName": "Meggyleves",
       "picture": "meggyleves.jpg",
       "description": "A slightly sweet soup made with sour cream, sugar, and whole fresh sour cherries, and served chilled. Originating in Hungarian cuisine, this soup is a summer delicacy in several European cuisines.",
       "ingredients":[
@@ -157,6 +168,7 @@
     },{
       "id": "hu11",
       "name": "Pálinka",
+      "localName": "Pálinka",
       "picture": "palinka.jpg",
       "description": "A traditional fruit brandy in the countries of the Carpathian Basin, known under several names, and invented in the Middle Ages. Protected as a geographical indication of the European Union, only fruit spirits mashed, distilled, matured and bottled in Hungary, and similar apricot spirits from four provinces of Austria can be called pálinka.",
       "ingredients":[
@@ -169,6 +181,7 @@
     },{
       "id": "hu12",
       "name": "Paprikás csirke",
+      "localName": "Paprikás csirke",
       "picture": "paprikas-csirke.jpg",
       "description": "A dish of Hungarian origin and one of the most famous Hungarian stews. Cooked bell peppers (aka paprika, as in the spice) are common in Hungarian cuisine, and dishes cooked in a creamy, red paprika stew have been referred to as a Hungarian staple.",
       "ingredients":[
@@ -183,6 +196,7 @@
     },{
       "id": "hu13",
       "name": "Pörkölt",
+      "localName": "Pörkölt",
       "picture": "porkolt.jpg",
       "description": "a Hungarian stew with boneless meat, paprika, some vegetables and no potato. It should not be confused with Goulash, a stew with more gravy or a soup, or Paprikás. They are considered to be the national dishes of Hungary.",
       "ingredients":[
@@ -196,6 +210,7 @@
     },{
       "id": "hu14",
       "name": "Sólet",
+      "localName": "Sólet",
       "picture": "solet.jpg",
       "description": "A traditional Hungarian-Jewish stew made with kidney beans, barley, onions, paprika, and usually meat. While traditionally a Jewish food, prepared on Fridays before Shabbat and eaten the following day for lunch, it is also commonly eaten by Hungarians who may even add pork.",
       "ingredients":[
@@ -210,6 +225,7 @@
     },{
       "id": "hu15",
       "name": "Stefánia szelet",
+      "localName": "Stefánia szelet",
       "picture": "Stefania-szelet.jpg",
       "description": "A type of Hungarian long meatloaf baked in a loaf pan, with 3 hard boiled eggs in the middle, making decorative white and yellow rings in the middle of the slices.",
       "ingredients":[
@@ -223,6 +239,7 @@
     },{
       "id": "hu16",
       "name": "Szilvásgombóc",
+      "localName": "Szilvásgombóc",
       "picture": "szilvasgomboc.jpg",
       "description": "A Central and East European dish. The plum dumplings can be eaten as dessert, as a main dish or side dish. The dough is made with mashed potatoes. Some recipes use eggs in the dough, some flour. The dough is flattened out and cut into squares. The plums are inserted inside the dumplings by hand.",
       "ingredients":[
@@ -237,6 +254,7 @@
     },{
       "id": "hu17",
       "name": "Téliszalámi",
+      "localName": "Téliszalámi",
       "picture": "teliszalami.jpg",
       "description": "A type of Hungarian salami based on a centuries old producing tradition. Made from mangalitsa pork and spices: white pepper, allspice and others. Winter salami is cured in cold air and smoked slowly. During the dry ripening process a special noble-mold is formed on the casing surface.",
       "ingredients":[
@@ -250,6 +268,7 @@
     },{
       "id": "hu18",
       "name": "Töltött káposzta",
+      "localName": "Töltött káposzta",
       "picture": "toltott-kaposzta.jpg",
       "description": "The traditional Hungarian cabbage roll (töltött káposzta) can be made from pickled cabbage leaves, filled with minced pork meat. The Hungarian version always contains minced pepper (paprika) and is served with sour cream on top. Hungarians serve this food during the periods of time near Christmas and New Year's, but stuffed cabbage also belongs to the traditional pig slaughter.",
       "ingredients":[
@@ -266,6 +285,7 @@
     },{
       "id": "hu19",
       "name": "Túrós csusza",
+      "localName": "Túrós csusza",
       "picture": "turos-csusza.jpg",
       "description": "A Hungarian savoury curd cheese noodle dish or cottage cheese noodle dish made with small home-made noodles or pasta. Turoscsusza is a traditional pasta dish in Hungarian cuisine.",
       "ingredients":[

@@ -29,6 +29,7 @@
     (let [dish (:body (get-dish "be01"))]
       (is (contains? dish :id))
       (is (contains? dish :name))
+      (is (contains? dish :localName))
       (is (contains? dish :picture))
       (is (contains? dish :description))
       (is (contains? dish :ingredients))

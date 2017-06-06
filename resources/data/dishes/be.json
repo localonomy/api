@@ -3,6 +3,7 @@
     {
       "id": "be13",
       "name": "Boudin blanc",
+      "localName": "Boudin blanc",
       "picture": "boudin-blanc.jpg",
       "description": "A white sausage made of pork without the blood. Pork liver and heart meat are typically included. The French/Belgian version typically uses milk, and is therefore generally more delicate than the Cajun variety.",
       "ingredients":[
@@ -17,6 +18,7 @@
     },{
       "id": "be01",
       "name": "Carbonnade",
+      "localName": "Carbonnade",
       "picture": "carbonnade.jpg",
       "description": "Traditional Belgian sweet-sour beef and onion stew made with beer, and seasoned with thyme, bay and mustard.",
       "ingredients":[
@@ -32,6 +34,7 @@
     },{
       "id": "be02",
       "name": "Chicons au gratin",
+      "localName": "Chicons au gratin",
       "picture": "chicons-gratin.jpg",
       "description": "This dish epitomises rural Belgian cooking: a gratin of Belgian endives in béchamel sauce with cheese. Often the endives are wrapped with ham.",
       "ingredients":[
@@ -47,6 +50,7 @@
     },{
       "id": "be20",
       "name": "Chocolat",
+      "localName": "Chocolat",
       "picture": "chocolat.jpg",
       "description": "Refers to chocolate produced in Belgium. While cacao beans and other ingredients such as sugar can originate from outside of Belgium, the actual production of the chocolate must take place in the country. Belgian chocolate is internationally known, and dates from as early as the 17th century. It also forms an important part of the Belgian economy.",
       "ingredients":[
@@ -59,6 +63,7 @@
     },{
       "id": "be03",
       "name": "Filet américain",
+      "localName": "Filet américain",
       "picture": "filet-americain.jpg",
       "description": "Very finely minced ground beef eaten raw and cold. It is spread on a sandwich or bread with and sometimes topped with a sauce, usually with sauce américaine, and served with fries.",
       "ingredients":[
@@ -72,6 +77,7 @@
     },{
       "id": "be19",
       "name": "Frites",
+      "localName": "Frites",
       "picture": "frites.jpg",
       "description": "It is claimed that fries originated in Belgium, and the on-going dispute between the French and Belgians about where they were invented is highly contentious, with both countries claiming ownership. Some people believe that the term 'French' was introduced when British and American soldiers arrived in Belgium during World War I and consequently tasted Belgian fries. They supposedly called them 'French', as it was the local language and official language of the Belgian Army at that time, believing themselves to be in France.",
       "ingredients":[
@@ -83,6 +89,7 @@
     },{
       "id": "be14",
       "name": "Jambon d'Ardenne",
+      "localName": "Jambon d'Ardenne",
       "picture": "jambon-ardenne.jpg",
       "description": "A Belgian gastronomic jewel, this ham is prepared, in the province of Luxembourg, from a pork leg.",
       "ingredients":[
@@ -95,6 +102,7 @@
     },{
       "id": "be17",
       "name": "Lapin à la gueuze",
+      "localName": "Lapin à la gueuze",
       "picture": "lapin-gueuze.jpg",
       "description": "Rabbit in gueuze, which is a spontaneously fermented beer from the area around Brussels.",
       "ingredients":[
@@ -108,6 +116,7 @@
     },{
       "id": "be04",
       "name": "Mitraillette",
+      "localName": "Mitraillette",
       "picture": "mitraillette.jpg",
       "description": "Belgian dish made of a demi-baguette, fried meat, fries, sauce and sometimes crudités.",
       "ingredients":[
@@ -122,6 +131,7 @@
     },{
       "id": "be05",
       "name": "Moules-frites",
+      "localName": "Moules-frites",
       "picture": "moules-frites.jpg",
       "description": "National Belgian dish consisting of mussels and fries.",
       "ingredients":[
@@ -134,6 +144,7 @@
     },{
       "id": "be06",
       "name": "Paling in 't groen",
+      "localName": "Paling in 't groen",
       "picture": "paling.jpg",
       "description": "Flemish regional dish, the name (literally 'Eel in the Green') refers to freshwater eel in a green herb sauce.",
       "ingredients":[
@@ -146,6 +157,7 @@
     },{
       "id": "be18",
       "name": "Pêches au thon",
+      "localName": "Pêches au thon",
       "picture": "peches-thon.jpg",
       "description": "Halved canned or fresh peaches stuffed with a mix of tuna and mayonnaise, i.e. tuna salad.",
       "ingredients":[
@@ -159,6 +171,7 @@
     },{
       "id": "be07",
       "name": "Salade liégoise",
+      "localName": "Salade liégoise",
       "picture": "salade-liegeoise.jpg",
       "description": "A salad with green beans, bacon, onions and vinegar. It is usually associated with Liège.",
       "ingredients":[
@@ -173,6 +186,7 @@
     },{
       "id": "be15",
       "name": "Speculoos",
+      "localName": "Speculoos",
       "picture": "speculoos.jpg",
       "description": "A type of spiced shortcrust biscuit, traditionally baked for consumption on or just before St Nicholas' feast in the Netherlands (December 5), Belgium (December 6), and around Christmas in Germany. In recent decades it has become available all year round. ",
       "ingredients":[
@@ -187,6 +201,7 @@
     },{
       "id": "be08",
       "name": "Stoemp",
+      "localName": "Stoemp",
       "picture": "stoemp.jpg",
       "description": "Brussels variant of the stamppot dish in the cuisine of Belgium and the Netherlands. It consists of pureed or mashed potatoes, other root vegetables and can also include cream, bacon, onion or shallot, herbs, and spices.",
       "ingredients":[
@@ -205,6 +220,7 @@
     },{
       "id": "be09",
       "name": "Tarte au riz",
+      "localName": "Tarte au riz",
       "picture": "tarte-riz.jpg",
       "description": "In Dutch and Belgian cuisine, rijstevlaai (Dutch) or tarte au riz (French) is a pie with a filling based on rice pudding. It is native to Verviers in southeastern Belgium.",
       "ingredients":[
@@ -223,6 +239,7 @@
     },{
       "id": "be10",
       "name": "Tomate-crevette",
+      "localName": "Tomate-crevette",
       "picture": "tomate-crevette.jpg",
       "description": "A snack or starter of grey shrimp (which is particularly popular in Belgium) and mayonnaise stuffed into a hollowed-out raw tomato.",
       "ingredients":[
@@ -237,6 +254,7 @@
     },{
       "id": "be16",
       "name": "Trappist Beer",
+      "localName": "Trappist Beer",
       "picture": "trappist-beer.jpg",
       "description": "Trappist beer is brewed by Trappist breweries. Ten monasteries — six in Belgium, two in the Netherlands, one in Austria and one in the United States — currently brew beer and sell it as Authentic Trappist Product.",
       "ingredients":[
@@ -248,6 +266,7 @@
     },{
       "id": "be11",
       "name": "Waffle",
+      "localName": "Waffle",
       "picture": "waffle.jpg",
       "description": "A waffle is a leavened batter or dough cooked between two plates, patterned to give a characteristic size, shape and surface impression. There are many variations based on the type of waffle iron and recipe used, with over a dozen regional varieties in Belgium alone.",
       "ingredients":[
@@ -264,6 +283,7 @@
     },{
       "id": "be12",
       "name": "Waterzooi",
+      "localName": "Waterzooi",
       "picture": "waterzooi.jpg",
       "description": "Belgian dish of stew, originating in Flanders often made of fish, either freshwater or sea, (known as Viszooitje), though today chicken waterzooi (Kippenwaterzooi) is more common.",
       "ingredients":[

@@ -25,6 +25,7 @@
       (map #(select-keys % [
         :id
         :name
+        :localName
         :ingredients
         :contains
       ]))

@@ -3,6 +3,7 @@
     {
       "id": "cl01",
       "name": "Barros Luco",
+      "localName": "Barros Luco",
       "picture": "barros-luco.jpg",
       "description": "A popular sandwich in Chile that includes beef and melted cheese in one of several types of bread. The name was coined in the restaurant of the National Congress of Chile, where president Ramón Barros Luco always asked for this sandwich.",
       "ingredients":[
@@ -18,6 +19,7 @@
     },{
       "id": "cl02",
       "name": "Caldillo de congrio",
+      "localName": "Caldillo de congrio",
       "picture": "caldillo-congrio.jpg",
       "description": "A Chilean fish dish. The dish is made of congrio Colorado (red conger), an eel species common in the Chilean Sea. The dish is made by boiling together fish heads, onion, garlic, coriander, carrots and pepper.",
       "ingredients":[
@@ -34,6 +36,7 @@
     },{
       "id": "cl03",
       "name": "Charquicán",
+      "localName": "Charquicán",
       "picture": "charquican.jpg",
       "description": "A Chilean stew dish. It is also popular in Argentina, Peru, Bolivia and other countries in the Andean region. Charquicán is made with ch'arki or beef, potatoes, pumpkin, white corn, onion and sometimes peas and corn.",
       "ingredients":[
@@ -50,6 +53,7 @@
     },{
       "id": "cl04",
       "name": "Choripán",
+      "localName": "Choripán",
       "picture": "choripan.jpg",
       "description": "A type of sandwich with chorizo popular in Argentina, Bolivia, Brazil, Chile, Peru, Puerto Rico, Uruguay and Venezuela. The name comes from the combination of the names of its ingredients: a grilled chorizo (sausage) and a pan (crusty bread) such as a marraqueta or baguette",
       "ingredients":[
@@ -64,6 +68,7 @@
     },{
       "id": "cl05",
       "name": "Chorrillana",
+      "localName": "Chorrillana",
       "picture": "chorrillana.jpg",
       "description": "A typical Chilean dish consisting of a plate of french fries topped with beef sliced into strips, eggs, fried onions and occasionally sausages. Chorrillana is considered one of the most traditional dishes in the Chilean city of Valparaíso. Because of its large size, it is usually served as a dish to share.",
       "ingredients":[
@@ -81,6 +86,7 @@
     },{
       "id": "cl06",
       "name": "Churrasco Italiano",
+      "localName": "Churrasco Italiano",
       "picture": "churrasco-italiano.jpg",
       "description": "In Chile, churrasco refers to a thin cut of steak which varies depending on the desired quality of the sandwich. The slices are grilled and served in a -sometimes warmed- local bun (called 'marraqueta'), usually accompanied with tomato, avocado and mayonnaise, in the case of a churrasco italiano. Another popular dish, churrasco a lo pobre ('poor man's churrasco'), consists of a churrasco served with French fries, fried egg, and caramelized onions",
       "ingredients":[
@@ -98,6 +104,7 @@
     },{
       "id": "cl07",
       "name": "Completo",
+      "localName": "Completo",
       "picture": "completo.jpg",
       "description": "A hot dog variation eaten in Chile, which is usually served with ingredients such as chopped tomatoes, avocados, mayonnaise, sauerkraut, a variation of the sauce américaine, Chilean chili, green sauce and cheese. Its size can be twice of an American hot dog.",
       "ingredients":[
@@ -116,6 +123,7 @@
     },{
       "id": "cl08",
       "name": "Cordero al palo",
+      "localName": "Cordero al palo",
       "picture": "cordero-palo.jpg",
       "description": "In Chile, the cordero al palo (whole roast lamb) is usually accompanied with pebre, a local condiment made from pureed herbs, garlic, and hot peppers; in many ways similar to chimichurri. The dish is typical of southern Chile and is served hot accompanied by salads.",
       "ingredients":[
@@ -129,6 +137,7 @@
     },{
       "id": "cl09",
       "name": "Ensalada de quinoa",
+      "localName": "Ensalada de quinoa",
       "picture": "ensalada-quinoa.jpg",
       "description": "Quinoa salad comprising quinoa and other vegetables.",
       "ingredients":[
@@ -142,6 +151,7 @@
     },{
       "id": "cl10",
       "name": "Humita",
+      "localName": "Humita",
       "picture": "humita.jpg",
       "description": "A Native American dish from pre-Hispanic times, and a traditional food in Argentina, Bolivia, Chile, Ecuador and Peru. It consists of masa harina and corn, slowly steamed or boiled in a pot of water. In Brazil it is known as pamonha. Humitas in Chile are prepared with fresh corn, onion, basil, and butter or lard.",
       "ingredients":[
@@ -157,6 +167,7 @@
     },{
       "id": "cl11",
       "name": "Lomo a lo pobre",
+      "localName": "Lomo a lo pobre",
       "picture": "lomo-pobre.jpg",
       "description": "Lomo a lo Pobre consists of a loin cut of meat topped with one or more fried eggs and generally served with French fries and fried onions. There are several possible origins for the name, one is that it was named so because of the irony of nineteenth century Peruvian commonsfolk eating similar dishes with an abundance of food and at a heavy price, despite their economic situation.",
       "ingredients":[
@@ -172,6 +183,7 @@
     },{
       "id": "cl12",
       "name": "Machas parmesana",
+      "localName": "Machas parmesana",
       "picture": "machas-parmesana.jpg",
       "description": "A dish made with the macha. This is a saltwater clam, a bivalve that is native to Chile. The dish also includes Parmesan cheese.",
       "ingredients":[
@@ -185,6 +197,7 @@
     },{
       "id": "cl13",
       "name": "Mote con huesillo",
+      "localName": "Mote con huesillo",
       "picture": "mote-huesillo.jpg",
       "description": "A traditional Chilean summer-time non-alcoholic drink made from wheat and peaches and often sold in street stands or vendor carts. It is a non-alcoholic beverage consisting of a sweet clear nectar like liquid made with dried peaches (huesillo) cooked in sugar, water and cinnamon, and then once cooled mixed with fresh cooked husked wheat (mote).",
       "ingredients":[
@@ -198,6 +211,7 @@
     },{
       "id": "cl14",
       "name": "Paila marina",
+      "localName": "Paila marina",
       "picture": "paila-marina.jpg",
       "description": "A traditional Chilean seafood soup or light stew usually served in a paila (earthenware bowl). It usually contains a shellfish stock base cooked with different kinds of shellfish and fish.",
       "ingredients":[
@@ -212,6 +226,7 @@
     },{
       "id": "cl15",
       "name": "Pan de Pascua",
+      "localName": "Pan de Pascua",
       "picture": "pan-pascua.jpg",
       "description": "A typical Chilean cake that is traditionally eaten around Christmas time. Despite its name, it is a cake made from batter, and not a true bread. It is similar to a sweet sponge cake flavored with ginger and honey. It usually contains candied fruits, raisins, walnuts and almonds.",
       "ingredients":[
@@ -227,6 +242,7 @@
     },{
       "id": "cl16",
       "name": "Pantruca",
+      "localName": "Pantruca",
       "picture": "pantruca.jpg",
       "description": "A typical food of Chile made with flour. It is a type of dumpling whose dough is made with water, flour and a bit of oil, cut in irregular pieces and later mixed with verduras soup or beef stock.",
       "ingredients":[
@@ -239,6 +255,7 @@
     },{
       "id": "cl17",
       "name": "Pastel de choclo",
+      "localName": "Pastel de choclo",
       "picture": "pastel-choclo.jpg",
       "description": "A pastel food based on sweetcorn or choclo, the quechua word for 'tender corn', or the new corn of the season. It is a typical Argentine, Bolivian, Chilean and Peruvian dish. Pastel de choclo is traditionally served in a paila (earthenware bowl) in individual portions. The filling usually contains ground beef, chicken, raisins, black olives, onions or slices of hard boiled egg.",
       "ingredients":[
@@ -256,6 +273,7 @@
     },{
       "id": "cl18",
       "name": "Pisco",
+      "localName": "Pisco",
       "picture": "pisco.jpg",
       "description": "A colorless or yellowish-to-amber colored brandy (a spirit produced by distilling wine) produced in winemaking regions of Chile and Peru. Typical cocktails made with pisco are Pisco sour and Piscola.",
       "ingredients":[
@@ -267,6 +285,7 @@
     },{
       "id": "cl19",
       "name": "Porotos con rienda",
+      "localName": "Porotos con rienda",
       "picture": "porotos-rienda.jpg",
       "description": "A typical Chilean dish made of boiled beans with spaghetti.",
       "ingredients":[
@@ -279,6 +298,7 @@
     },{
       "id": "cl20",
       "name": "Terremoto",
+      "localName": "Terremoto",
       "picture": "terremoto.jpg",
       "description": "A Chilean alcoholic cocktail invented in the late 20th century as a cheap version of ponche a la romana. The name is due to the fact that the cocktail was invented right after the 1985 earthquake (terremoto in Spanish). The cocktail was created at La Piojera and remained secret for a while. You can now enjoy terremotos in most of the bars in Chile.",
       "ingredients":[
