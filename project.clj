@@ -6,6 +6,7 @@
                  [cheshire "5.7.1"]
                  [compojure "1.5.1" :exclusions [[ring/ring-core]]]
                  [environ "1.1.0"]
+                 [ring-cors "0.1.11"]
                  [ring/ring-defaults "0.2.1" :exclusions [[ring/ring-core]]]
                  [ring/ring-jetty-adapter "1.6.1"]
                  [ring/ring-json "0.4.0"]]
