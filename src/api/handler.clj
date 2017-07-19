@@ -28,7 +28,10 @@
   (-> app-routes 
     (middleware.json/wrap-json-response)
     (middleware.cors/wrap-cors
-      :access-control-allow-origin [#".*localhost.*", #".*localonomy.herokuapp.com"]
+      :access-control-allow-origin [
+        #".*localhost.*",
+        #".*localonomy.herokuapp.com"
+      ]
       :access-control-allow-methods [:get :put :post :delete])
     (middleware/wrap-defaults middleware/api-defaults)))
 
