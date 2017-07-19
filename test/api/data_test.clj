@@ -9,6 +9,7 @@
     {:id "do", :code "do", :name "Dominican Republic"}
     {:id "fr", :code "fr", :name "France"}
     {:id "hu", :code "hu", :name "Hungary"}
+    {:id "in", :code "in", :name "India"}
     {:id "it", :code "it", :name "Italy"}
     {:id "jp", :code "jp", :name "Japan"}
     {:id "mx", :code "mx", :name "Mexico"}
