@@ -19,6 +19,8 @@
     (json/decode-stream
       (io/reader "resources/data/dishes/hu.json") true)
     (json/decode-stream
+      (io/reader "resources/data/dishes/in.json") true)
+    (json/decode-stream
       (io/reader "resources/data/dishes/it.json") true)
     (json/decode-stream
       (io/reader "resources/data/dishes/jp.json") true)

@@ -1,0 +1,295 @@
+{
+  "in": [
+    {
+      "id": "in01",
+      "name": "Aloo Gobi",
+      "localName": "आलू गोभी",
+      "picture": "aloo-gobi.jpg",
+      "description": "A vegetarian dish from the Indian subcontinent made with potatoes (aloo), cauliflower (gobi) and Indian spices. It is yellowish in color, due to the use of turmeric, and occasionally contains kalonji and curry leaves. Other common ingredients include garlic, ginger, onion, coriander stalks, tomato, peas, and cumin. A number of variations and similar dishes exist, but the name remains the same.",
+      "ingredients":[
+        "potato",
+        "cauliflower"
+      ],
+      "contains":[
+        ""
+      ]
+    },{
+      "id": "in02",
+      "name": "Biryani",
+      "localName": "Biryani",
+      "picture": "biryani.jpg",
+      "description": "A South Asian mixed rice dish with its origins among the Muslims of the Indian subcontinent. It is popular throughout the subcontinent and among the diaspora from the region. It is generally made with spices, rice, and meat.",
+      "ingredients":[
+        "rice",
+        "meat",
+        "potato",
+        "egg"
+      ],
+      "contains":[
+        "meat",
+        "egg"
+      ]
+    },{
+      "id": "in03",
+      "name": "Butter Chicken",
+      "localName": "मुर्ग़ मक्खनी",
+      "picture": "butter-chicken.jpg",
+      "description": "A dish from the Indian subcontinent of chicken in a mildly spiced curry sauce. It was developed by an Indian, Kundan Lal Gujral, a Punjabi Hindu restaurateur, who was the founder of Moti Mahal Delux restaurant in Delhi, India.",
+      "ingredients":[
+        "chicken",
+        "tomato",
+        "spicy",
+        "milk"
+      ],
+      "contains":[
+        "meat",
+        "spicy",
+        "dairy"
+      ]
+    },{
+      "id": "in04",
+      "name": "Chicken Tikka",
+      "localName": "Chicken Tikka",
+      "picture": "chicken-tikka.jpg",
+      "description": "A chicken dish originating in the Punjab region of the Indian Subcontinent. It is traditionally small pieces of boneless chicken baked using skewers on a brazier called angeethi after marinating in spices and yogurt — essentially a boneless version of tandoori chicken. The word tikka means \"bits\" or \"pieces\".",
+      "ingredients":[
+        "chicken",
+        "milk",
+        "spicy",
+        "garlic"
+      ],
+      "contains":[
+        "meat",
+        "dairy"
+      ]
+    },{
+      "id": "in05",
+      "name": "Chingri Malai Curry",
+      "localName": "চিংড়ি মালাই কারি",
+      "picture": "chingri-malai-curry.jpg",
+      "description": "A Bengali curry made from prawns and coconut milk and flavoured with spices. The dish is popular throughout Bengal and is served during weddings and celebrations, or for guests, and was also very popular among the British in Calcutta.",
+      "ingredients":[
+        "shrimp",
+        "coconut"
+      ],
+      "contains":[
+        "seafood"
+      ]
+    },{
+      "id": "in06",
+      "name": "Dal Makhani",
+      "localName": "Dal Makhani",
+      "picture": "dal-makhani.jpg",
+      "description": "A popular dish from the Punjab region of India and Pakistan. The primary ingredients are whole black lentil (urad), red kidney beans (rajma), butter and cream. The dish gets its richness from the use of cream, however, it can also be prepared with yogurt, milk or no dairy.",
+      "ingredients":[
+        "lentil",
+        "bean",
+        "milk"
+      ],
+      "contains":[
+        "dairy"
+      ]
+    },{
+      "id": "in07",
+      "name": "Dhokla",
+      "localName": "ઢોકળા",
+      "picture": "dhokla.jpg",
+      "description": "A vegetarian food item that originates from the Indian state of Gujarat. It is made with a fermented batter derived from rice and split chickpeas. Dhokla can be eaten for breakfast, as a main course, as a side dish, or as a snack. Dhokla is very similar to Khaman, and the terms are frequently used interchangeably.",
+      "ingredients":[
+        "pea",
+        "rice"
+      ],
+      "contains":[
+        ""
+      ]
+    },{
+      "id": "in08",
+      "name": "Gajar Ka Halwa",
+      "localName": "गाजर का हलवा",
+      "picture": "gajar-ka-halwa.jpg",
+      "description": "A sweet dessert pudding originating from the Indian subcontinent. It is made by placing grated carrot in a pot containing a specific amount of water, milk and sugar and then cooking while stirring regularly. It is often served with a garnish of almonds and pistachios. The nuts and other items used are first sautéed in ghee, a South Asian clarified butter. It is traditionally eaten during all of the festivals in India, mainly on the occasion of Diwali, Holi, Eid al-Fitr and Raksha Bandhan.",
+      "ingredients":[
+        "carrot",
+        "milk",
+        "sugar"
+      ],
+      "contains":[
+        "dairy"
+      ]
+    },{
+      "id": "in09",
+      "name": "Idli",
+      "localName": "Idli",
+      "picture": "idli.jpg",
+      "description": "A traditional breakfast in South Indian households, especially in Tamil Nadu where it is a popular breakfast dish that is consumed in numerous households. Idli is a savoury cake that is popular throughout India and neighbouring countries like Sri Lanka. The cakes are made by steaming a batter consisting of fermented black lentils (de-husked) and rice. The fermentation process breaks down the starches so that they are more readily metabolized by the body.",
+      "ingredients":[
+        "lentil",
+        "rice"
+      ],
+      "contains":[
+        ""
+      ]
+    },{
+      "id": "in10",
+      "name": "Kulfi",
+      "localName": "Kulfi",
+      "picture": "kulfi.jpg",
+      "description": "A popular frozen dairy dessert from the Indian subcontinent. It is often described as traditional Indian ice cream. Kulfi has similarities to ice cream in appearance and taste; however it is denser and creamier. The traditional flavours are cream (malai), rose, mango, cardamom (elaichi), saffron (kesar or zafran), and pistachio.",
+      "ingredients":[
+        "milk",
+        "sugar"
+      ],
+      "contains":[
+        "dairy"
+      ]
+    },{
+      "id": "in11",
+      "name": "Lassi",
+      "localName": "Lassi",
+      "picture": "lassi.jpg",
+      "description": "A popular traditional yogurt-based drink from the Indian Subcontinent. Lassi is a blend of yogurt, water, spices and sometimes fruit. Traditional lassi is a savoury drink, sometimes flavoured with ground and roasted cumin. Sweet lassi, however, contains sugar or fruits, instead of spices. ",
+      "ingredients":[
+        "milk"
+      ],
+      "contains":[
+        "dairy"
+      ]
+    },{
+      "id": "in12",
+      "name": "Machher Jhol",
+      "localName": "মাছের ঝোল",
+      "picture": "machher-jhol.jpg",
+      "description": "A traditional Bengali and Odia spicy fish stew. It is in the form of a very spicy stew that is served with rice. Machher Jhol is liberally seasoned with turmeric, garlic, onions, and grated ginger. Potatoes are added to the stew as a thickening agent. Tomatoes are also added to impart the dish with a reddish color which is preferred by the people of Bengal.",
+      "ingredients":[
+        "fish",
+        "potato",
+        "tomato"
+      ],
+      "contains":[
+        "seafood"
+      ]
+    },{
+      "id": "in13",
+      "name": "Momo",
+      "localName": "मम - མོག་མོག་",
+      "picture": "momo.jpg",
+      "description": "A type of South Asian dumpling; native to Tibet, Nepal, Bhutan, Sikkim state and Darjeeling district of India. It is similar to Chinese baozi and jiaozi, Mongolian buuz, Japanese gyoza and Korean mandu.",
+      "ingredients":[
+        "flour",
+        "meat",
+        "vegetables"
+      ],
+      "contains":[
+        "gluten",
+        "meat"
+      ]
+    },{
+      "id": "in14",
+      "name": "Naan",
+      "localName": "Naan",
+      "picture": "naan.jpg",
+      "description": "A leavened, oven-baked flatbread found in the cuisines of Malaysia, Central Asia and South Asia. The Persian word nān 'bread' is attested in Middle Persian as n'n 'bread, food', which is of Iranian origin, and is a cognate with Parthian ngn, Balochi nagan, Sogdian nγn-, and Pashto nəγan 'bread'.",
+      "ingredients":[
+        "wheat",
+        "milk"
+      ],
+      "contains":[
+        "gluten",
+        "dairy"
+      ]
+    },{
+      "id": "in15",
+      "name": "Panipuri",
+      "localName": "Panipuri",
+      "picture": "panipuri.jpg",
+      "description": "A common street snack in several regions of the Indian subcontinent. In East India, it is misidentified with Phuchhka which is very different from Panipuri.",
+      "ingredients":[
+        "flour",
+        "potato",
+        "onion",
+        "pea",
+        "spicy"
+      ],
+      "contains":[
+        "gluten",
+        "spicy"
+      ]
+    },{
+      "id": "in16",
+      "name": "Palak Paneer",
+      "localName": "Palak Paneer",
+      "picture": "palak-paneer.jpg",
+      "description": "A vegetarian dish from the Indian Subcontinent, consisting of paneer in a thick paste made from puréed spinach and seasoned with garlic, garam masala, and other spices.",
+      "ingredients":[
+        "spinach",
+        "cheese",
+        "garlic"
+      ],
+      "contains":[
+        "dairy"
+      ]
+    },{
+      "id": "in17",
+      "name": "Pesarattu",
+      "localName": "Pesarattu",
+      "picture": "pesarattu.jpg",
+      "description": "A crepe-like bread that is similar to dosa. It is made with batter of green gram (moong dal) but, unlike dosa, it does not contain urad dal. Pesarattu is eaten at breakfast and as a snack that is popular in Andhra Pradesh and Rajasthan in India. It is typically served with ginger or tamarind chutney. Green chilies, ginger and onions are used in variants.",
+      "ingredients":[
+        "pea",
+        "spicy"
+      ],
+      "contains":[
+        "spicy"
+      ]
+    },{
+      "id": "in18",
+      "name": "Rajma",
+      "localName": "राजमा",
+      "picture": "rajma.jpg",
+      "description": "A popular South Asian vegetarian dish consisting of red kidney beans in a thick gravy with many Indian whole spices and usually served with rice. Although the kidney bean is not of South Asian origin, it is a part of regular diet in Northern India and Nepal. The dish developed after the red kidney bean was brought to South Asia from Mexico.",
+      "ingredients":[
+        "bean",
+        "rice",
+        "spicy"
+      ],
+      "contains":[
+        "spicy"
+      ]
+    },{
+      "id": "in19",
+      "name": "Samosa",
+      "localName": "Samosa",
+      "picture": "samosa.jpg",
+      "description": "A fried or baked dish with a savoury filling, such as spiced potatoes, onions, peas, lentils, macaroni, noodles, cheese, minced lamb or minced beef. Pine nuts can also be added. Its size and consistency may vary, but typically it is distinctly triangular or tetrahedral in shape. Indian samosas are usually vegetarian, and often accompanied by a mint chutney.",
+      "ingredients":[
+        "flour",
+        "potato",
+        "pea",
+        "onion",
+        "pepper",
+        "cheese"
+      ],
+      "contains":[
+        "gluten",
+        "dairy"
+      ]
+    },{
+      "id": "in20",
+      "name": "Tandoori Chicken",
+      "localName": "Tandoori Chicken",
+      "picture": "tandoori-chicken.jpg",
+      "description": "Chicken prepared as food by roasting, yoghurt and spice marinated chicken, in a tandoor, a cylindrical clay oven. It is a popular dish originating from the Indian subcontinent. It is popular in India and Pakistan and has become popular in other parts of the world through restaurants serving food from the subcontinent.",
+      "ingredients":[
+        "chicken",
+        "milk",
+        "honey",
+        "spicy"
+      ],
+      "contains":[
+        "meat",
+        "dairy",
+        "spicy"
+      ]
+    }
+  ]
+}
