@@ -1,4 +1,4 @@
-(defproject api "0.1.0"
+(defproject api "1.0.0"
   :description "API for the Localonomy app"
   :url "https://github.com/localonomy"
   :min-lein-version "2.0.0"
